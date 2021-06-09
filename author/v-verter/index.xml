@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V Verter | Martin Cousineau</title>
+    <link>https://martincousi.github.io/author/v-verter/</link>
+      <atom:link href="https://martincousi.github.io/author/v-verter/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Verter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Thu, 10 Jun 2021 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>V Verter</title>
+      <link>https://martincousi.github.io/author/v-verter/</link>
+    </image>
+    
+    <item>
+      <title>A prototype for the recommendation of treatment-resistant depression treatments</title>
+      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments/</link>
+      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating causal effects with optimization-based methods: A review and empirical comparison</title>
+      <link>https://martincousi.github.io/publication/causal-effects-optimization/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/causal-effects-optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

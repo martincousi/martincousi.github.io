@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Pineau | Martin Cousineau</title>
+    <link>https://martincousi.github.io/author/j-pineau/</link>
+      <atom:link href="https://martincousi.github.io/author/j-pineau/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Pineau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>J Pineau</title>
+      <link>https://martincousi.github.io/author/j-pineau/</link>
+    </image>
+    
+    <item>
+      <title>Estimating causal effects with optimization-based methods: A review and empirical comparison</title>
+      <link>https://martincousi.github.io/publication/causal-effects-optimization/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/causal-effects-optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

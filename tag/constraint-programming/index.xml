@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>constraint programming | Martin Cousineau</title>
+    <link>https://martincousi.github.io/tag/constraint-programming/</link>
+      <atom:link href="https://martincousi.github.io/tag/constraint-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>constraint programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>constraint programming</title>
+      <link>https://martincousi.github.io/tag/constraint-programming/</link>
+    </image>
+    
+    <item>
+      <title>RWA problem with geodesics in realistic OTN topologies</title>
+      <link>https://martincousi.github.io/publication/rwa-otn/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/rwa-otn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation du routage et de l&#39;affectation de longueurs d&#39;onde sur un réseau de télécommunication par programmation mathématique</title>
+      <link>https://martincousi.github.io/publication/master-thesis/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
