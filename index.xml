@@ -5,7 +5,7 @@
     <link>https://martincousi.github.io/</link>
       <atom:link href="https://martincousi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Cousineau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Thu, 10 Jun 2021 13:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Martin Cousineau</title>
@@ -13,33 +13,9 @@
     </image>
     
     <item>
-      <title>A prototype for the recommendation of treatment-resistant depression treatments</title>
-      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments/</link>
-      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems with deep reinforcement learning</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-deep-reinforcement-learning/</link>
-      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-deep-reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic</title>
-      <link>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic/</link>
-      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Writing a M.Sc. supervised project report</title>
       <link>https://martincousi.github.io/post/writing-supervised-project-report/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/post/writing-supervised-project-report/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -98,9 +74,36 @@
 &lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt; (free basic version).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you don&amp;rsquo;t know where to start with your literature review, you can refer to this pedagogical note (&lt;a href=&#34;./uploads/Pedagogical_note_Literature_review.pdf&#34; target=&#34;_blank&#34;&gt;english&lt;/a&gt; / &lt;a href=&#34;./uploads/Note_pedagogique_Revue_litterature.pdf&#34; target=&#34;_blank&#34;&gt;français&lt;/a&gt;). It may, however, be a bit too advanced depending on the type of your project.&lt;/p&gt;
+&lt;p&gt;You can also contact the &lt;a href=&#34;https://www.hec.ca/en/library/services/reference-research-training.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;librarian for the Logistics and Operations Management department&lt;/a&gt;. This person is highly qualified to help you with your literature review, and can help you determine the appropriate databases to search, the relevant keywords, etc.&lt;/p&gt;
 &lt;h2 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h2&gt;
-&lt;p&gt;Finally, note that your report will be evaluated by your supervisor (or co-supervisors) as well as one examiner. To do so, the evaluation grid at the end of the above &amp;ldquo;MSc supervised projects &amp;ndash; guidelines and requirements&amp;rdquo; document will be used. It is thus important to look at whether and how your report adresses all of these elements.&lt;/p&gt;
+&lt;p&gt;Note that your report will be evaluated by your supervisor (or co-supervisors) as well as one examiner. To do so, the evaluation grid at the end of the above &amp;ldquo;MSc supervised projects &amp;ndash; guidelines and requirements&amp;rdquo; document will be used. It is thus important to look at whether and how your report adresses all of these elements.&lt;/p&gt;
+&lt;h2 id=&#34;advancement&#34;&gt;Advancement&lt;/h2&gt;
+&lt;p&gt;In conclusion, it is important to keep in touch with your supervisor during your supervised project and writing of the report, to avoid unpleasant surprises. You also need to send the initial draft of your report to your supervisor well before the &lt;a href=&#34;https://www.hec.ca/en/students/my-program/msc/supervised-project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deadline&lt;/a&gt; (e.g., one month before) to allow enough time for modifications.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A prototype for the recommendation of treatment-resistant depression treatments</title>
+      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments/</link>
+      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multi-echelon inventory problems with deep reinforcement learning</title>
+      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-deep-reinforcement-learning/</link>
+      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-deep-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic</title>
+      <link>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic/</link>
+      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic/</guid>
+      <description></description>
     </item>
     
     <item>
