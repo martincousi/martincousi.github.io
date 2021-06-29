@@ -5,7 +5,7 @@
     <link>https://martincousi.github.io/</link>
       <atom:link href="https://martincousi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Cousineau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Martin Cousineau</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Writing a M.Sc. supervised project report</title>
       <link>https://martincousi.github.io/post/writing-supervised-project-report/</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/post/writing-supervised-project-report/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -64,7 +64,7 @@
 &lt;p&gt;Tables and figures are an essential part of your report in order to convey results, among others. These, however, need to be presented in a professional manner in order for the reader to appreciate them. First, your tables and figures should have a caption that explains their content and other characteristics (if applicable). Note that a caption generally goes &lt;em&gt;above&lt;/em&gt; a table and &lt;em&gt;below&lt;/em&gt; a figure.&lt;/p&gt;
 &lt;p&gt;Second, your tables and figures should come &lt;em&gt;after&lt;/em&gt; they are introduced in the text, e.g., &amp;ldquo;As shown in Table 2, the &amp;hellip;&amp;rdquo;, &amp;ldquo;&amp;hellip; results (see Figure 1)&amp;rdquo;. Note that all tables and figures should be introduced in the text (including the ones in the appendices).&lt;/p&gt;
 &lt;p&gt;Third, your tables should have a table header (i.e., a row at the top of the table used to label each column). These labels (generally in bold font) as well as each entry in the table should be concise and easy to read. These tables should be designed directly in Microsoft Word and not a screenshot from another software.&lt;/p&gt;
-&lt;p&gt;Finally, your figures should have a high-resolution so that they are easy to read. If you use a figure (or table) from another source, it is important to acknowledge this source (in the caption) and make sure that you have the right to use it.&lt;/p&gt;
+&lt;p&gt;Finally, your figures should have a high-resolution so that they are easy to read. Ideally, you should reproduce these figures in PowerPoint, for example, instead of doing a screenshot if they are simple. If you use a figure (or table) from another source, it is important to acknowledge this source (in the caption) and make sure that you have the right to use it.&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;Your Literature review section, in particular, as well as other sections should contain several citations. It is important to adopt a consistent format for these citations throughout your report. Most report are typically generated using the author-year format (e.g., format of the American Psychological Association (APA)). This format will also dictate how your references are written in your List of references. You can refer to the above &amp;ldquo;Citing your sources&amp;rdquo; reference for more information regarding this topic. For information regarding the prefered format at HEC Montréal, you can refer to this &lt;a href=&#34;https://libguides.hec.ca/style-hec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;guide&lt;/a&gt; (in french only); this format is similar to the APA 6th edition format.&lt;/p&gt;
 &lt;p&gt;Note I highly recommend you to use a reference management software to manage these citations. This software will also automatically generate your list of references according to the format you want. Some popular reference management software are:&lt;/p&gt;
@@ -78,7 +78,7 @@
 &lt;h2 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h2&gt;
 &lt;p&gt;Note that your report will be evaluated by your supervisor (or co-supervisors) as well as one examiner. To do so, the evaluation grid at the end of the above &amp;ldquo;MSc supervised projects &amp;ndash; guidelines and requirements&amp;rdquo; document will be used. It is thus important to look at whether and how your report adresses all of these elements.&lt;/p&gt;
 &lt;h2 id=&#34;advancement&#34;&gt;Advancement&lt;/h2&gt;
-&lt;p&gt;In conclusion, it is important to keep in touch with your supervisor during your supervised project and writing of the report, to avoid unpleasant surprises. You also need to send the initial draft of your report to your supervisor well before the &lt;a href=&#34;https://www.hec.ca/en/students/my-program/msc/supervised-project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deadline&lt;/a&gt; (e.g., one month before) to allow enough time for modifications.&lt;/p&gt;
+&lt;p&gt;In conclusion, it is important to keep in touch with your supervisor during your supervised project and writing of the report, to avoid unpleasant surprises. You also need to send the initial draft of your report to your supervisor well before the &lt;a href=&#34;https://www.hec.ca/en/students/my-program/msc/supervised-project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deadline&lt;/a&gt; (e.g., one month before) to allow enough time for modifications. Note that a good practice is to include your name and the date of your draft in the filename to facilitate the follow-up among the different versions.&lt;/p&gt;
 </description>
     </item>
     
