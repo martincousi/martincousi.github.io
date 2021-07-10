@@ -5,12 +5,20 @@
     <link>https://martincousi.github.io/author/v-verter/</link>
       <atom:link href="https://martincousi.github.io/author/v-verter/index.xml" rel="self" type="application/rss+xml" />
     <description>V Verter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Thu, 10 Jun 2021 13:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Fri, 23 Jul 2021 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>V Verter</title>
       <link>https://martincousi.github.io/author/v-verter/</link>
     </image>
+    
+    <item>
+      <title>A prototype for the recommendation of treatment-resistant depression treatments</title>
+      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments/</link>
+      <pubDate>Fri, 23 Jul 2021 11:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A prototype for the recommendation of treatment-resistant depression treatments</title>
