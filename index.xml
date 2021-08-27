@@ -5,7 +5,7 @@
     <link>https://martincousi.github.io/</link>
       <atom:link href="https://martincousi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Cousineau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Fri, 23 Jul 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Martin Cousineau</copyright><lastBuildDate>Tue, 31 Aug 2021 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Martin Cousineau</title>
@@ -13,25 +13,17 @@
     </image>
     
     <item>
-      <title>A prototype for the recommendation of treatment-resistant depression treatments (INFORMS)</title>
-      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-informs/</link>
-      <pubDate>Fri, 23 Jul 2021 11:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-informs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic (INFORMS)</title>
-      <link>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-informs/</link>
-      <pubDate>Wed, 21 Jul 2021 15:40:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-informs/</guid>
+      <title>Solving multi-echelon inventory management problems with deep reinforcement learning (IWLS)</title>
+      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-management-problems-with-deep-reinforcement-learning-iwls/</link>
+      <pubDate>Tue, 31 Aug 2021 08:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-management-problems-with-deep-reinforcement-learning-iwls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing a M.Sc. supervised project report</title>
       <link>https://martincousi.github.io/post/writing-supervised-project-report/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/post/writing-supervised-project-report/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -75,7 +67,8 @@
 &lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
 &lt;p&gt;It is important that you adopt a professional writing style in your report and don&amp;rsquo;t use casual sentences. You can refer to the above &amp;ldquo;Guidelines for writing an academic work at a graduate level&amp;rdquo; document or to any scientific articles for examples of such sentences. You can also ask someone else to read your report (if not forbidden by a non-disclosure agreement).&lt;/p&gt;
 &lt;p&gt;In addition, make sure that there are transitions between the different sections of your report and that the story flows naturally. You want the reader to be able to read your report without having to go back and forth.&lt;/p&gt;
-&lt;p&gt;Finally, on the first use of an acronym, you need to spell out the words first followed by the acronym in parentheses, e.g., operations management (OM), supply chains (SCs).&lt;/p&gt;
+&lt;p&gt;Furthermore, on the first use of an acronym, you need to spell out the words first followed by the acronym in parentheses, e.g., operations management (OM), supply chains (SCs).&lt;/p&gt;
+&lt;p&gt;Finally, support and courses are also offered by the &lt;a href=&#34;https://www.hec.ca/en/cfla/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Business Language Training Centre (CLFA)&lt;/a&gt;. In particular, you can register &lt;em&gt;for free&lt;/em&gt; to four one-on-one tutoring sessions over four weeks to revise your supervised project report (&lt;a href=&#34;https://www.hec.ca/en/cfla/english/one-on-one-tutoring/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;english&lt;/a&gt; / &lt;a href=&#34;https://www.hec.ca/cfla/francais/tutoriat-individuel/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;français&lt;/a&gt;).&lt;/p&gt;
 &lt;h2 id=&#34;tables-and-figures&#34;&gt;Tables and figures&lt;/h2&gt;
 &lt;p&gt;Tables and figures are an essential part of your report in order to convey results, among others. These, however, need to be presented in a professional manner in order for the reader to appreciate them. First, your tables and figures should have a caption that explains their content and other characteristics (if applicable). Note that a caption generally goes &lt;em&gt;above&lt;/em&gt; a table and &lt;em&gt;below&lt;/em&gt; a figure.&lt;/p&gt;
 &lt;p&gt;Second, your tables and figures should come &lt;em&gt;after&lt;/em&gt; they are introduced in the text, e.g., &amp;ldquo;As shown in Table 2, the &amp;hellip;&amp;rdquo;, &amp;ldquo;&amp;hellip; results (see Figure 1)&amp;rdquo;. Note that all tables and figures should be introduced in the text (including the ones in the appendices).&lt;/p&gt;
@@ -96,6 +89,22 @@
 &lt;h2 id=&#34;advancement&#34;&gt;Advancement&lt;/h2&gt;
 &lt;p&gt;In conclusion, it is important to keep in touch with your supervisor during your supervised project and writing of the report, to avoid unpleasant surprises. You also need to send the initial draft of your report to your supervisor well before the &lt;a href=&#34;https://www.hec.ca/en/students/my-program/msc/supervised-project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deadline&lt;/a&gt; (e.g., one month before) to allow enough time for modifications. Note that a good practice is to include your name and the date of your draft in the filename to facilitate the follow-up among the different versions.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A prototype for the recommendation of treatment-resistant depression treatments (INFORMS)</title>
+      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-informs/</link>
+      <pubDate>Fri, 23 Jul 2021 11:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-informs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic (INFORMS)</title>
+      <link>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-informs/</link>
+      <pubDate>Wed, 21 Jul 2021 15:40:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-informs/</guid>
+      <description></description>
     </item>
     
     <item>
