@@ -5,12 +5,20 @@
     <link>https://martincousi.github.io/tag/reinforcement-learning/</link>
       <atom:link href="https://martincousi.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>reinforcement learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Tue, 31 Aug 2021 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>reinforcement learning</title>
       <link>https://martincousi.github.io/tag/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>Dynamic ride-hailing with electric vehicles</title>
+      <link>https://martincousi.github.io/publication/dynamic-ridehailing/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/dynamic-ridehailing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Solving multi-echelon inventory management problems with deep reinforcement learning (IWLS)</title>
@@ -33,14 +41,6 @@
       <link>https://martincousi.github.io/talk/atari-fying-the-vehicle-routing-problem-with-stochastic-service-requests-cors/</link>
       <pubDate>Mon, 07 Jun 2021 13:30:00 +0000</pubDate>
       <guid>https://martincousi.github.io/talk/atari-fying-the-vehicle-routing-problem-with-stochastic-service-requests-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic ride-hailing with electric vehicles</title>
-      <link>https://martincousi.github.io/publication/dynamic-ridehailing/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/publication/dynamic-ridehailing/</guid>
       <description></description>
     </item>
     
