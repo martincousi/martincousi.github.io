@@ -5,7 +5,7 @@
     <link>https://martincousi.github.io/</link>
       <atom:link href="https://martincousi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Cousineau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Mon, 16 May 2022 16:20:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Martin Cousineau</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control (JOPT)</title>
+      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</link>
+      <pubDate>Mon, 16 May 2022 16:20:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of machine learning and operations research to solve more realistic problems</title>
+      <link>https://martincousi.github.io/talk/integration-of-machine-learning-and-operations-research-to-solve-more-realistic-problems/</link>
+      <pubDate>Mon, 02 May 2022 10:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/integration-of-machine-learning-and-operations-research-to-solve-more-realistic-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le niveau de maturité digitale des établissements de santé de la province de Québec</title>
+      <link>https://martincousi.github.io/publication/maturite-qc/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/maturite-qc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating causal effects with optimization-based methods: A review and empirical comparison</title>
       <link>https://martincousi.github.io/publication/causal-effects-optimization/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/causal-effects-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control</title>
+      <link>https://martincousi.github.io/publication/multi-echelon-inventory/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/multi-echelon-inventory/</guid>
       <description></description>
     </item>
     

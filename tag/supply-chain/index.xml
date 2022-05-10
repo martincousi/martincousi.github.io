@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supply chain | Martin Cousineau</title>
+    <link>https://martincousi.github.io/tag/supply-chain/</link>
+      <atom:link href="https://martincousi.github.io/tag/supply-chain/index.xml" rel="self" type="application/rss+xml" />
+    <description>supply chain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>supply chain</title>
+      <link>https://martincousi.github.io/tag/supply-chain/</link>
+    </image>
+    
+    <item>
+      <title>Le niveau de maturité digitale des établissements de santé de la province de Québec</title>
+      <link>https://martincousi.github.io/publication/maturite-qc/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/maturite-qc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

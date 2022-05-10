@@ -2,11 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://martincousi.github.io/publication-type/2/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/authors/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/inventory-management/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/m-cousineau/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/machine-learning/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/q-zhong/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/r-jans/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/event/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tags/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/y-adulyasak/</loc>
+    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/integration-of-machine-learning-and-operations-research-to-solve-more-realistic-problems/</loc>
+    <lastmod>2022-05-02T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/operations-research/</loc>
+    <lastmod>2022-05-02T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/transportation/</loc>
+    <lastmod>2022-05-02T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication-type/2/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/a-snowdon/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/digitalization/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/healthcare/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication/maturite-qc/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/m-beaulieu/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication_types/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/supply-chain/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/v-belanger/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/causal-inference/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
@@ -23,26 +92,14 @@
     <loc>https://martincousi.github.io/author/j-pineau/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/author/m-cousineau/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/publication_types/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/publication/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/author/sa-murphy/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tags/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/v-verter/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication/multi-echelon-inventory/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/publication/dynamic-ridehailing/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
@@ -53,34 +110,10 @@
     <loc>https://martincousi.github.io/author/je-mendoza/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/tag/machine-learning/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/author/nd-kullman/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/tag/reinforcement-learning/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/transportation/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/inventory-management/</loc>
-    <lastmod>2021-08-31T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/q-zhong/</loc>
-    <lastmod>2021-08-31T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/r-jans/</loc>
-    <lastmod>2021-08-31T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/event/</loc>
-    <lastmod>2021-08-31T08:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/talk/solving-multi-echelon-inventory-management-problems-with-deep-reinforcement-learning-iwls/</loc>
-    <lastmod>2021-08-31T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/y-adulyasak/</loc>
     <lastmod>2021-08-31T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/post/</loc>
@@ -111,9 +144,6 @@
     <lastmod>2021-07-21T15:40:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-informs/</loc>
-    <lastmod>2021-07-21T15:40:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/v-belanger/</loc>
     <lastmod>2021-07-21T15:40:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-cors/</loc>
@@ -171,9 +201,6 @@
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/publication/doctoral-thesis/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/healthcare/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/constraint-programming/</loc>
