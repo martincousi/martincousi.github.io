@@ -3,39 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://martincousi.github.io/authors/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/covid-19/</loc>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/forecasting/</loc>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/inventory-management/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/k-dehkhoda/</loc>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/m-cousineau/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/machine-learning/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/q-zhong/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/r-jans/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/event/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/reinforcement-learning/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tags/</loc>
-    <lastmod>2022-05-16T16:20:00+00:00</lastmod>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-final-results/</loc>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/v-belanger/</loc>
+    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/machine-learning/</loc>
+    <lastmod>2022-06-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/q-zhong/</loc>
+    <lastmod>2022-06-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/r-jans/</loc>
+    <lastmod>2022-06-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2022-06-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-cors/</loc>
+    <lastmod>2022-06-05T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/y-adulyasak/</loc>
+    <lastmod>2022-06-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</loc>
     <lastmod>2022-05-16T16:20:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/talk/integration-of-machine-learning-and-operations-research-to-solve-more-realistic-problems/</loc>
@@ -72,9 +90,6 @@
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/supply-chain/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/v-belanger/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/publication/multi-echelon-inventory/</loc>
@@ -136,15 +151,6 @@
   </url><url>
     <loc>https://martincousi.github.io/tag/recommender-system/</loc>
     <lastmod>2021-07-23T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/covid-19/</loc>
-    <lastmod>2021-07-21T15:40:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/forecasting/</loc>
-    <lastmod>2021-07-21T15:40:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/k-dehkhoda/</loc>
-    <lastmod>2021-07-21T15:40:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-informs/</loc>
     <lastmod>2021-07-21T15:40:00+00:00</lastmod>

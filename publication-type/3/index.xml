@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control</title>
-      <link>https://martincousi.github.io/publication/multi-echelon-inventory/</link>
-      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/publication/multi-echelon-inventory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Atari-fying the vehicle routing problem with stochastic service requests</title>
       <link>https://martincousi.github.io/publication/atari-vrpssr/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>

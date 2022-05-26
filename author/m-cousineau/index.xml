@@ -5,12 +5,28 @@
     <link>https://martincousi.github.io/author/m-cousineau/</link>
       <atom:link href="https://martincousi.github.io/author/m-cousineau/index.xml" rel="self" type="application/rss+xml" />
     <description>M Cousineau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Mon, 16 May 2022 16:20:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Mon, 06 Jun 2022 11:15:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>M Cousineau</title>
       <link>https://martincousi.github.io/author/m-cousineau/</link>
     </image>
+    
+    <item>
+      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic: Final results</title>
+      <link>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-final-results/</link>
+      <pubDate>Mon, 06 Jun 2022 11:15:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-final-results/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control (CORS)</title>
+      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-cors/</link>
+      <pubDate>Sun, 05 Jun 2022 11:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-cors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control (JOPT)</title>
@@ -33,14 +49,6 @@
       <link>https://martincousi.github.io/publication/maturite-qc/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/maturite-qc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control</title>
-      <link>https://martincousi.github.io/publication/multi-echelon-inventory/</link>
-      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/publication/multi-echelon-inventory/</guid>
       <description></description>
     </item>
     
