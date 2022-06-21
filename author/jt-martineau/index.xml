@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JT Martineau | Martin Cousineau</title>
+    <link>https://martincousi.github.io/author/jt-martineau/</link>
+      <atom:link href="https://martincousi.github.io/author/jt-martineau/index.xml" rel="self" type="application/rss+xml" />
+    <description>JT Martineau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Tue, 14 Jun 2022 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>JT Martineau</title>
+      <link>https://martincousi.github.io/author/jt-martineau/</link>
+    </image>
+    
+    <item>
+      <title>Qu&#39;est-ce que l&#39;IA en santé? (OBVIA)</title>
+      <link>https://martincousi.github.io/talk/quest-ce-que-lia-en-sante-obvia/</link>
+      <pubDate>Tue, 14 Jun 2022 12:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/quest-ce-que-lia-en-sante-obvia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

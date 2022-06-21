@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Martin Cousineau</title>
+    <link>https://martincousi.github.io/publication/</link>
+      <atom:link href="https://martincousi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://martincousi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Le niveau de maturité digitale des établissements de santé de la province de Québec</title>
+      <link>https://martincousi.github.io/publication/maturite-qc/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/maturite-qc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control</title>
+      <link>https://martincousi.github.io/publication/multi-echelon-inventory/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/multi-echelon-inventory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating causal effects with optimization-based methods: A review and empirical comparison</title>
+      <link>https://martincousi.github.io/publication/causal-effects-optimization/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/causal-effects-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic ride-hailing with electric vehicles</title>
+      <link>https://martincousi.github.io/publication/dynamic-ridehailing/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/dynamic-ridehailing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atari-fying the vehicle routing problem with stochastic service requests</title>
+      <link>https://martincousi.github.io/publication/atari-vrpssr/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/atari-vrpssr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics for medical decision making: Applications to the management of treatment-resistant depression</title>
+      <link>https://martincousi.github.io/publication/doctoral-thesis/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/doctoral-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RWA problem with geodesics in realistic OTN topologies</title>
+      <link>https://martincousi.github.io/publication/rwa-otn/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/rwa-otn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation du routage et de l&#39;affectation de longueurs d&#39;onde sur un réseau de télécommunication par programmation mathématique</title>
+      <link>https://martincousi.github.io/publication/master-thesis/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A resistive mesh phantom for assessing the performance of EIT systems</title>
+      <link>https://martincousi.github.io/publication/phantom-eit/</link>
+      <pubDate>Mon, 14 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/phantom-eit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
