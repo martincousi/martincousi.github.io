@@ -5,7 +5,7 @@
     <link>https://martincousi.github.io/tag/healthcare/</link>
       <atom:link href="https://martincousi.github.io/tag/healthcare/index.xml" rel="self" type="application/rss+xml" />
     <description>healthcare</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Thu, 17 Nov 2022 08:30:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>healthcare</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Le niveau de maturité digitale des établissements de santé de la province de Québec</title>
+      <title>Le niveau de maturité digitale de la chaîne logistique interne des établissements de santé de la province de Québec: une étude exploratoire</title>
+      <link>https://martincousi.github.io/talk/le-niveau-de-maturite-digitale-de-la-chaine-logistique-interne-des-etablissements-de-sante-de-la-province-de-quebec-une-etude-exploratoire/</link>
+      <pubDate>Thu, 17 Nov 2022 08:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/le-niveau-de-maturite-digitale-de-la-chaine-logistique-interne-des-etablissements-de-sante-de-la-province-de-quebec-une-etude-exploratoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le niveau de maturité digitale de la chaîne logistique interne des établissements de santé de la province de Québec: une étude exploratoire</title>
       <link>https://martincousi.github.io/publication/maturite-qc/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/maturite-qc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven analytics for treatment-resistant depression</title>
+      <link>https://martincousi.github.io/publication/analytics-depression/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/analytics-depression/</guid>
       <description></description>
     </item>
     

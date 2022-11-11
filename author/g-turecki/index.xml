@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G Turecki | Martin Cousineau</title>
+    <link>https://martincousi.github.io/author/g-turecki/</link>
+      <atom:link href="https://martincousi.github.io/author/g-turecki/index.xml" rel="self" type="application/rss+xml" />
+    <description>G Turecki</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>G Turecki</title>
+      <link>https://martincousi.github.io/author/g-turecki/</link>
+    </image>
+    
+    <item>
+      <title>Data-driven analytics for treatment-resistant depression</title>
+      <link>https://martincousi.github.io/publication/analytics-depression/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/analytics-depression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

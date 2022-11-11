@@ -5,12 +5,20 @@
     <link>https://martincousi.github.io/event/</link>
       <atom:link href="https://martincousi.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Tue, 14 Jun 2022 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Thu, 17 Nov 2022 08:30:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://martincousi.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Le niveau de maturité digitale de la chaîne logistique interne des établissements de santé de la province de Québec: une étude exploratoire</title>
+      <link>https://martincousi.github.io/talk/le-niveau-de-maturite-digitale-de-la-chaine-logistique-interne-des-etablissements-de-sante-de-la-province-de-quebec-une-etude-exploratoire/</link>
+      <pubDate>Thu, 17 Nov 2022 08:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/le-niveau-de-maturite-digitale-de-la-chaine-logistique-interne-des-etablissements-de-sante-de-la-province-de-quebec-une-etude-exploratoire/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Qu&#39;est-ce que l&#39;IA en santé? (OBVIA)</title>
