@@ -5,12 +5,20 @@
     <link>https://martincousi.github.io/event/</link>
       <atom:link href="https://martincousi.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Martin Cousineau</copyright><lastBuildDate>Tue, 18 Jul 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Martin Cousineau</copyright><lastBuildDate>Wed, 26 Jul 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://martincousi.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>The impact of psychiatric outpatient follow-up visit frequency on clinical outcomes and waiting times (INFORMS)</title>
+      <link>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</link>
+      <pubDate>Wed, 26 Jul 2023 09:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The evolution of global supply chains under geopolitical uncertainty (POMS)</title>
