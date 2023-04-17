@@ -5,12 +5,20 @@
     <link>https://martincousi.github.io/tag/machine-learning/</link>
       <atom:link href="https://martincousi.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Martin Cousineau</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Martin Cousineau</copyright><lastBuildDate>Mon, 29 May 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>machine learning</title>
       <link>https://martincousi.github.io/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Estimating causal effects with optimization-based methods: A review and empirical comparison (CORS)</title>
+      <link>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</link>
+      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic ride-hailing with electric vehicles</title>

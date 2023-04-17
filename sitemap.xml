@@ -2,47 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://martincousi.github.io/publication-type/2/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/authors/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/m-cousineau/</loc>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/</loc>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/political-risk/</loc>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/r-charpin/</loc>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/event/</loc>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/supply-chain/</loc>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tags/</loc>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/the-evolution-of-global-supply-chains-under-geopolitical-uncertainty-poms/</loc>
+    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/causal-inference/</loc>
+    <lastmod>2023-05-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/constrained-optimization/</loc>
+    <lastmod>2023-05-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</loc>
+    <lastmod>2023-05-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/j-pineau/</loc>
+    <lastmod>2023-05-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/machine-learning/</loc>
+    <lastmod>2023-05-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/operations-research/</loc>
+    <lastmod>2023-05-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/sa-murphy/</loc>
+    <lastmod>2023-05-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/v-verter/</loc>
+    <lastmod>2023-05-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/depression/</loc>
+    <lastmod>2023-03-09T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/g-turecki/</loc>
+    <lastmod>2023-03-09T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/healthcare/</loc>
+    <lastmod>2023-03-09T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/limpact-de-la-frequence-des-visites-de-suivi-des-patients-externes-en-psychiatrie-sur-les-reponses-cliniques-et-les-temps-dattente/</loc>
+    <lastmod>2023-03-09T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication-type/3/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/covid-19/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/digitalization/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/forecasting/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/inventory-management/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/k-dehkhoda/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication_types/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication/visibility-inventory-covid/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/v-belanger/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication-type/2/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/confounding/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/tag/constrained-optimization/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/publication/causal-effects-optimization/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/author/j-pineau/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+    <loc>https://martincousi.github.io/author/j-roy/</loc>
+    <lastmod>2022-12-07T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/author/m-cousineau/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/publication_types/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/publication/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/sa-murphy/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tags/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/v-verter/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+    <loc>https://martincousi.github.io/talk/logistique-hospitaliere-et-enjeux-dapprovisionnement-dans-le-milieu-de-la-sante/</loc>
+    <lastmod>2022-12-07T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/publication/dynamic-ridehailing/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
@@ -51,9 +117,6 @@
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/je-mendoza/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/machine-learning/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/nd-kullman/</loc>
@@ -68,43 +131,19 @@
     <loc>https://martincousi.github.io/author/a-snowdon/</loc>
     <lastmod>2022-11-17T08:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/tag/digitalization/</loc>
-    <lastmod>2022-11-17T08:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/healthcare/</loc>
-    <lastmod>2022-11-17T08:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/talk/le-niveau-de-maturite-digitale-de-la-chaine-logistique-interne-des-etablissements-de-sante-de-la-province-de-quebec-une-etude-exploratoire/</loc>
     <lastmod>2022-11-17T08:30:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/m-beaulieu/</loc>
     <lastmod>2022-11-17T08:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/event/</loc>
-    <lastmod>2022-11-17T08:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/supply-chain/</loc>
-    <lastmod>2022-11-17T08:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/v-belanger/</loc>
-    <lastmod>2022-11-17T08:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/publication/maturite-qc/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/publication-type/3/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/analytics/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/publication/analytics-depression/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/depression/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/g-turecki/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/queuing/</loc>
@@ -125,23 +164,8 @@
     <loc>https://martincousi.github.io/author/jt-martineau/</loc>
     <lastmod>2022-06-14T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/tag/operations-research/</loc>
-    <lastmod>2022-06-14T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/talk/quest-ce-que-lia-en-sante-obvia/</loc>
     <lastmod>2022-06-14T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/covid-19/</loc>
-    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/forecasting/</loc>
-    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/inventory-management/</loc>
-    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/k-dehkhoda/</loc>
-    <lastmod>2022-06-06T11:15:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-final-results-cors/</loc>
     <lastmod>2022-06-06T11:15:00+00:00</lastmod>
