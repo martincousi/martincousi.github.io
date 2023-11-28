@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V Verter | Martin Cousineau</title>
+    <link>https://martincousi.github.io/author/v-verter/</link>
+      <atom:link href="https://martincousi.github.io/author/v-verter/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Verter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Martin Cousineau</copyright><lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>V Verter</title>
+      <link>https://martincousi.github.io/author/v-verter/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Psychiatric Follow-up Frequency on Outcomes and Waiting Times</title>
+      <link>https://martincousi.github.io/publication/timing-depression/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/timing-depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of psychiatric outpatient follow-up visit frequency on clinical outcomes and waiting times (INFORMS)</title>
+      <link>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</link>
+      <pubDate>Wed, 26 Jul 2023 09:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating causal effects with optimization-based methods: A review and empirical comparison (CORS)</title>
+      <link>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</link>
+      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;impact de la fréquence des visites de suivi des patients externes en psychiatrie sur les  réponses cliniques et les temps d&#39;attente</title>
+      <link>https://martincousi.github.io/talk/limpact-de-la-frequence-des-visites-de-suivi-des-patients-externes-en-psychiatrie-sur-les-reponses-cliniques-et-les-temps-dattente/</link>
+      <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/limpact-de-la-frequence-des-visites-de-suivi-des-patients-externes-en-psychiatrie-sur-les-reponses-cliniques-et-les-temps-dattente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating causal effects with optimization-based methods: A review and empirical comparison</title>
+      <link>https://martincousi.github.io/publication/causal-effects-optimization/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/causal-effects-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A prototype for the recommendation of treatment-resistant depression treatments (INFORMS)</title>
+      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-informs/</link>
+      <pubDate>Fri, 23 Jul 2021 11:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-informs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A prototype for the recommendation of treatment-resistant depression treatments (CORS)</title>
+      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-cors/</link>
+      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-cors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

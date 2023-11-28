@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Charlin | Martin Cousineau</title>
+    <link>https://martincousi.github.io/author/l-charlin/</link>
+      <atom:link href="https://martincousi.github.io/author/l-charlin/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Charlin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Martin Cousineau</copyright><lastBuildDate>Fri, 23 Jul 2021 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>L Charlin</title>
+      <link>https://martincousi.github.io/author/l-charlin/</link>
+    </image>
+    
+    <item>
+      <title>A prototype for the recommendation of treatment-resistant depression treatments (INFORMS)</title>
+      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-informs/</link>
+      <pubDate>Fri, 23 Jul 2021 11:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-informs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A prototype for the recommendation of treatment-resistant depression treatments (CORS)</title>
+      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-cors/</link>
+      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-cors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
