@@ -2,37 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://martincousi.github.io/tag/artificial-intelligence/</loc>
+    <lastmod>2023-11-28T17:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://martincousi.github.io/authors/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/depression/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/g-turecki/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
+    <lastmod>2023-11-28T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/healthcare/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
+    <lastmod>2023-11-28T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/talk/les-chocs-de-linnovation-en-sante/</loc>
+    <lastmod>2023-11-28T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/m-cousineau/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
+    <lastmod>2023-11-28T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
+    <lastmod>2023-11-28T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/event/</loc>
+    <lastmod>2023-11-28T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tags/</loc>
+    <lastmod>2023-11-28T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication-type/3/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/access-to-healthcare/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/comparative-effectiveness-research/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/depression/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/g-turecki/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication/timing-depression/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/mental-health/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication_types/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/publication/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/author/v-verter/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/operations-research/</loc>
     <lastmod>2023-07-26T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/event/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tags/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</loc>
-    <lastmod>2023-07-26T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/author/v-verter/</loc>
     <lastmod>2023-07-26T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/tag/political-risk/</loc>
@@ -68,9 +95,6 @@
     <loc>https://martincousi.github.io/talk/limpact-de-la-frequence-des-visites-de-suivi-des-patients-externes-en-psychiatrie-sur-les-reponses-cliniques-et-les-temps-dattente/</loc>
     <lastmod>2023-03-09T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martincousi.github.io/publication-type/3/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://martincousi.github.io/tag/covid-19/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -84,12 +108,6 @@
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/k-dehkhoda/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/publication_types/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/publication/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/publication/visibility-inventory-covid/</loc>
@@ -142,18 +160,6 @@
   </url><url>
     <loc>https://martincousi.github.io/publication/maturite-qc/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/analytics/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/publication/analytics-depression/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/queuing/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martincousi.github.io/tag/artificial-intelligence/</loc>
-    <lastmod>2022-06-14T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/author/c-regis/</loc>
     <lastmod>2022-06-14T12:00:00+00:00</lastmod>
@@ -306,6 +312,9 @@
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/publication-type/7/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://martincousi.github.io/tag/analytics/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://martincousi.github.io/publication/doctoral-thesis/</loc>
