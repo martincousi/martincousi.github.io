@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Beauchesne | Martin Cousineau</title>
+    <link>https://martincousi.github.io/author/p-beauchesne/</link>
+      <atom:link href="https://martincousi.github.io/author/p-beauchesne/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Beauchesne</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>P Beauchesne</title>
+      <link>https://martincousi.github.io/author/p-beauchesne/</link>
+    </image>
+    
+    <item>
+      <title>L’innovation au service de la réduction de la maladie</title>
+      <link>https://martincousi.github.io/talk/linnovation-au-service-de-la-reduction-de-la-maladie/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/linnovation-au-service-de-la-reduction-de-la-maladie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

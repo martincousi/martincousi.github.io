@@ -5,12 +5,28 @@
     <link>https://martincousi.github.io/tag/reinforcement-learning/</link>
       <atom:link href="https://martincousi.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>reinforcement learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Martin Cousineau</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>reinforcement learning</title>
       <link>https://martincousi.github.io/tag/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>Gamifying the vehicle routing problem with stochastic requests</title>
+      <link>https://martincousi.github.io/publication/gamifying-vrpsr/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/gamifying-vrpsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multi-echelon inventory problems using deep reinforcement learning with centralized control (CORS)</title>
+      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-using-deep-reinforcement-learning-with-centralized-control-cors/</link>
+      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-using-deep-reinforcement-learning-with-centralized-control-cors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic ride-hailing with electric vehicles</title>

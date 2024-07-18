@@ -5,12 +5,84 @@
     <link>https://martincousi.github.io/event/</link>
       <atom:link href="https://martincousi.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Martin Cousineau</copyright><lastBuildDate>Tue, 28 Nov 2023 17:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Thu, 13 Jun 2024 13:30:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://martincousi.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Panel sur les impacts sociétaux de l&#39;intelligence artificielle et du numérique (OBVIA)</title>
+      <link>https://martincousi.github.io/talk/panel-sur-les-impacts-societaux-de-lintelligence-artificielle-et-du-numerique-obvia/</link>
+      <pubDate>Thu, 13 Jun 2024 13:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/panel-sur-les-impacts-societaux-de-lintelligence-artificielle-et-du-numerique-obvia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A gas pipeline surveillance problem solved with a two-phase iterative approach using machine learning techniques (CORS)</title>
+      <link>https://martincousi.github.io/talk/a-gas-pipeline-surveillance-problem-solved-with-a-two-phase-iterative-approach-using-machine-learning-techniques-cors/</link>
+      <pubDate>Mon, 03 Jun 2024 07:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-gas-pipeline-surveillance-problem-solved-with-a-two-phase-iterative-approach-using-machine-learning-techniques-cors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two phase iterative approach using machine learning to solve a gas pipeline surveillance problem (ODYSSEUS)</title>
+      <link>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-odysseus/</link>
+      <pubDate>Mon, 20 May 2024 09:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-odysseus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for solving the on-demand bus routing problem with bus stops assignment (ODYSSEUS)</title>
+      <link>https://martincousi.github.io/talk/algorithms-for-solving-the-on-demand-bus-routing-problem-with-bus-stops-assignment-odysseus/</link>
+      <pubDate>Mon, 20 May 2024 09:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/algorithms-for-solving-the-on-demand-bus-routing-problem-with-bus-stops-assignment-odysseus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two phase iterative approach using machine learning to solve a gas pipeline surveillance problem (JOPT)</title>
+      <link>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-jopt/</link>
+      <pubDate>Mon, 06 May 2024 08:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-jopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Request forecasting methods in dynamic vehicle routing problems (JOPT)</title>
+      <link>https://martincousi.github.io/talk/request-forecasting-methods-in-dynamic-vehicle-routing-problems-jopt/</link>
+      <pubDate>Mon, 06 May 2024 08:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/request-forecasting-methods-in-dynamic-vehicle-routing-problems-jopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L’innovation au service de la réduction de la maladie</title>
+      <link>https://martincousi.github.io/talk/linnovation-au-service-de-la-reduction-de-la-maladie/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/linnovation-au-service-de-la-reduction-de-la-maladie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximer le coût de tournées de surveillance du réseau de transport gazier à l’aide d’apprentissage automatique (ROADEF)</title>
+      <link>https://martincousi.github.io/talk/approximer-le-cout-de-tournees-de-surveillance-du-reseau-de-transport-gazier-a-laide-dapprentissage-automatique-roadef/</link>
+      <pubDate>Mon, 04 Mar 2024 14:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/approximer-le-cout-de-tournees-de-surveillance-du-reseau-de-transport-gazier-a-laide-dapprentissage-automatique-roadef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;IA, l&#39;État et nous (OBVIA)</title>
+      <link>https://martincousi.github.io/talk/lia-letat-et-nous-obvia/</link>
+      <pubDate>Tue, 20 Feb 2024 17:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/lia-letat-et-nous-obvia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Les Chocs de l&#39;innovation en santé</title>
@@ -37,10 +109,18 @@
     </item>
     
     <item>
-      <title>Estimating causal effects with optimization-based methods: A review and empirical comparison (CORS)</title>
-      <link>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</link>
+      <title>Learning implicit multiple time windows in the traveling salesman problem (CORS)</title>
+      <link>https://martincousi.github.io/talk/learning-implicit-multiple-time-windows-in-the-traveling-salesman-problem-cors/</link>
       <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</guid>
+      <guid>https://martincousi.github.io/talk/learning-implicit-multiple-time-windows-in-the-traveling-salesman-problem-cors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multi-echelon inventory problems using deep reinforcement learning with centralized control (CORS)</title>
+      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-using-deep-reinforcement-learning-with-centralized-control-cors/</link>
+      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-using-deep-reinforcement-learning-with-centralized-control-cors/</guid>
       <description></description>
     </item>
     

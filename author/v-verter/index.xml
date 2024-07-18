@@ -5,7 +5,7 @@
     <link>https://martincousi.github.io/author/v-verter/</link>
       <atom:link href="https://martincousi.github.io/author/v-verter/index.xml" rel="self" type="application/rss+xml" />
     <description>V Verter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Martin Cousineau</copyright><lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>V Verter</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Impact of Psychiatric Follow-up Frequency on Outcomes and Waiting Times</title>
       <link>https://martincousi.github.io/publication/timing-depression/</link>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/timing-depression/</guid>
       <description></description>
     </item>
@@ -25,14 +25,6 @@
       <link>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</link>
       <pubDate>Wed, 26 Jul 2023 09:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating causal effects with optimization-based methods: A review and empirical comparison (CORS)</title>
-      <link>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</link>
-      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/estimating-causal-effects-with-optimization-based-methods-a-review-and-empirical-comparison-cors/</guid>
       <description></description>
     </item>
     

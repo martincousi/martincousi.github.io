@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metaheuristic | Martin Cousineau</title>
+    <link>https://martincousi.github.io/tag/metaheuristic/</link>
+      <atom:link href="https://martincousi.github.io/tag/metaheuristic/index.xml" rel="self" type="application/rss+xml" />
+    <description>metaheuristic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Mon, 03 Jun 2024 07:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>metaheuristic</title>
+      <link>https://martincousi.github.io/tag/metaheuristic/</link>
+    </image>
+    
+    <item>
+      <title>A gas pipeline surveillance problem solved with a two-phase iterative approach using machine learning techniques (CORS)</title>
+      <link>https://martincousi.github.io/talk/a-gas-pipeline-surveillance-problem-solved-with-a-two-phase-iterative-approach-using-machine-learning-techniques-cors/</link>
+      <pubDate>Mon, 03 Jun 2024 07:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-gas-pipeline-surveillance-problem-solved-with-a-two-phase-iterative-approach-using-machine-learning-techniques-cors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two phase iterative approach using machine learning to solve a gas pipeline surveillance problem (ODYSSEUS)</title>
+      <link>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-odysseus/</link>
+      <pubDate>Mon, 20 May 2024 09:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-odysseus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for solving the on-demand bus routing problem with bus stops assignment (ODYSSEUS)</title>
+      <link>https://martincousi.github.io/talk/algorithms-for-solving-the-on-demand-bus-routing-problem-with-bus-stops-assignment-odysseus/</link>
+      <pubDate>Mon, 20 May 2024 09:30:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/algorithms-for-solving-the-on-demand-bus-routing-problem-with-bus-stops-assignment-odysseus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two phase iterative approach using machine learning to solve a gas pipeline surveillance problem (JOPT)</title>
+      <link>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-jopt/</link>
+      <pubDate>Mon, 06 May 2024 08:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-jopt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
