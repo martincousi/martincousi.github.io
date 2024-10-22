@@ -5,12 +5,20 @@
     <link>https://martincousi.github.io/author/mi-restrepo/</link>
       <atom:link href="https://martincousi.github.io/author/mi-restrepo/index.xml" rel="self" type="application/rss+xml" />
     <description>MI Restrepo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>MI Restrepo</title>
       <link>https://martincousi.github.io/author/mi-restrepo/</link>
     </image>
+    
+    <item>
+      <title>Solving the on-demand bus routing problem</title>
+      <link>https://martincousi.github.io/publication/odbrp/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/odbrp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning implicit multiple time windows in the traveling salesman problem</title>

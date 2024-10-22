@@ -5,12 +5,28 @@
     <link>https://martincousi.github.io/tag/supply-chain/</link>
       <atom:link href="https://martincousi.github.io/tag/supply-chain/index.xml" rel="self" type="application/rss+xml" />
     <description>supply chain</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Tue, 18 Jul 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>supply chain</title>
       <link>https://martincousi.github.io/tag/supply-chain/</link>
     </image>
+    
+    <item>
+      <title>Friendshoring: How geopolitical tensions affect foreign sourcing, supply base complexity, and sub-tier supplier sharing</title>
+      <link>https://martincousi.github.io/publication/friendshoring-supply-chains/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/friendshoring-supply-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friendshoring: How geopolitical tensions affect foreign supply bases and supply network structures (AOM)</title>
+      <link>https://martincousi.github.io/talk/friendshoring-how-geopolitical-tensions-affect-foreign-supply-bases-and-supply-network-structures-aom/</link>
+      <pubDate>Fri, 09 Aug 2024 07:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/friendshoring-how-geopolitical-tensions-affect-foreign-supply-bases-and-supply-network-structures-aom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The evolution of global supply chains under geopolitical uncertainty (POMS)</title>

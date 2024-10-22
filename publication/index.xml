@@ -5,12 +5,36 @@
     <link>https://martincousi.github.io/publication/</link>
       <atom:link href="https://martincousi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://martincousi.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Solving the on-demand bus routing problem</title>
+      <link>https://martincousi.github.io/publication/odbrp/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/odbrp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friendshoring: How geopolitical tensions affect foreign sourcing, supply base complexity, and sub-tier supplier sharing</title>
+      <link>https://martincousi.github.io/publication/friendshoring-supply-chains/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/friendshoring-supply-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic</title>
+      <link>https://martincousi.github.io/publication/visibility-inventory-covid/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/visibility-inventory-covid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gamifying the vehicle routing problem with stochastic requests</title>
@@ -33,14 +57,6 @@
       <link>https://martincousi.github.io/publication/implicit-tws/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/implicit-tws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic</title>
-      <link>https://martincousi.github.io/publication/visibility-inventory-covid/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/publication/visibility-inventory-covid/</guid>
       <description></description>
     </item>
     
@@ -105,14 +121,6 @@
       <link>https://martincousi.github.io/publication/multi-echelon-inventory/</link>
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/multi-echelon-inventory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atari-fying the vehicle routing problem with stochastic service requests</title>
-      <link>https://martincousi.github.io/publication/atari-vrpssr/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/publication/atari-vrpssr/</guid>
       <description></description>
     </item>
     
