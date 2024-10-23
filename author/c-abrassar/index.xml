@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Abrassar | Martin Cousineau</title>
+    <link>https://martincousi.github.io/author/c-abrassar/</link>
+      <atom:link href="https://martincousi.github.io/author/c-abrassar/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Abrassar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
+      <title>C Abrassar</title>
+      <link>https://martincousi.github.io/author/c-abrassar/</link>
+    </image>
+    
+    <item>
+      <title>État de la situation sur les impacts sociétaux de l&#39;intelligence artificielle et du numérique - 2024</title>
+      <link>https://martincousi.github.io/publication/obvia-situation-2024/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/obvia-situation-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
