@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>A gas pipeline surveillance problem solved with a two-phase iterative approach using machine learning techniques (CORS)</title>
-      <link>https://martincousi.github.io/talk/a-gas-pipeline-surveillance-problem-solved-with-a-two-phase-iterative-approach-using-machine-learning-techniques-cors/</link>
-      <pubDate>Mon, 03 Jun 2024 07:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/a-gas-pipeline-surveillance-problem-solved-with-a-two-phase-iterative-approach-using-machine-learning-techniques-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A two phase iterative approach using machine learning to solve a gas pipeline surveillance problem (ODYSSEUS)</title>
       <link>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-odysseus/</link>
       <pubDate>Mon, 20 May 2024 09:30:00 +0000</pubDate>
@@ -53,22 +45,6 @@
     </item>
     
     <item>
-      <title>A two phase iterative approach using machine learning to solve a gas pipeline surveillance problem (JOPT)</title>
-      <link>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-jopt/</link>
-      <pubDate>Mon, 06 May 2024 08:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-jopt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Request forecasting methods in dynamic vehicle routing problems (JOPT)</title>
-      <link>https://martincousi.github.io/talk/request-forecasting-methods-in-dynamic-vehicle-routing-problems-jopt/</link>
-      <pubDate>Mon, 06 May 2024 08:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/request-forecasting-methods-in-dynamic-vehicle-routing-problems-jopt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Approximer le coût de tournées de surveillance du réseau de transport gazier à l’aide d’apprentissage automatique (ROADEF)</title>
       <link>https://martincousi.github.io/talk/approximer-le-cout-de-tournees-de-surveillance-du-reseau-de-transport-gazier-a-laide-dapprentissage-automatique-roadef/</link>
       <pubDate>Mon, 04 Mar 2024 14:00:00 +0000</pubDate>
@@ -81,14 +57,6 @@
       <link>https://martincousi.github.io/publication/implicit-tws/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/implicit-tws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning implicit multiple time windows in the traveling salesman problem (CORS)</title>
-      <link>https://martincousi.github.io/talk/learning-implicit-multiple-time-windows-in-the-traveling-salesman-problem-cors/</link>
-      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/learning-implicit-multiple-time-windows-in-the-traveling-salesman-problem-cors/</guid>
       <description></description>
     </item>
     

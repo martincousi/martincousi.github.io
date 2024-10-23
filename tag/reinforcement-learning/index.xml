@@ -21,34 +21,10 @@
     </item>
     
     <item>
-      <title>Solving multi-echelon inventory problems using deep reinforcement learning with centralized control (CORS)</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-using-deep-reinforcement-learning-with-centralized-control-cors/</link>
-      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-using-deep-reinforcement-learning-with-centralized-control-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dynamic ride-hailing with electric vehicles</title>
       <link>https://martincousi.github.io/publication/dynamic-ridehailing/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/dynamic-ridehailing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control (CORS)</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-cors/</link>
-      <pubDate>Sun, 05 Jun 2022 11:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control (JOPT)</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</link>
-      <pubDate>Mon, 16 May 2022 16:20:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</guid>
       <description></description>
     </item>
     
@@ -73,14 +49,6 @@
       <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-management-problems-with-deep-reinforcement-learning-iwls/</link>
       <pubDate>Tue, 31 Aug 2021 08:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-management-problems-with-deep-reinforcement-learning-iwls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems with deep reinforcement learning (CORS)</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-deep-reinforcement-learning-cors/</link>
-      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-deep-reinforcement-learning-cors/</guid>
       <description></description>
     </item>
     

@@ -61,14 +61,6 @@
     </item>
     
     <item>
-      <title>A gas pipeline surveillance problem solved with a two-phase iterative approach using machine learning techniques (CORS)</title>
-      <link>https://martincousi.github.io/talk/a-gas-pipeline-surveillance-problem-solved-with-a-two-phase-iterative-approach-using-machine-learning-techniques-cors/</link>
-      <pubDate>Mon, 03 Jun 2024 07:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/a-gas-pipeline-surveillance-problem-solved-with-a-two-phase-iterative-approach-using-machine-learning-techniques-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A two phase iterative approach using machine learning to solve a gas pipeline surveillance problem (ODYSSEUS)</title>
       <link>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-odysseus/</link>
       <pubDate>Mon, 20 May 2024 09:30:00 +0000</pubDate>
@@ -81,22 +73,6 @@
       <link>https://martincousi.github.io/talk/algorithms-for-solving-the-on-demand-bus-routing-problem-with-bus-stops-assignment-odysseus/</link>
       <pubDate>Mon, 20 May 2024 09:30:00 +0000</pubDate>
       <guid>https://martincousi.github.io/talk/algorithms-for-solving-the-on-demand-bus-routing-problem-with-bus-stops-assignment-odysseus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A two phase iterative approach using machine learning to solve a gas pipeline surveillance problem (JOPT)</title>
-      <link>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-jopt/</link>
-      <pubDate>Mon, 06 May 2024 08:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/a-two-phase-iterative-approach-using-machine-learning-to-solve-a-gas-pipeline-surveillance-problem-jopt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Request forecasting methods in dynamic vehicle routing problems (JOPT)</title>
-      <link>https://martincousi.github.io/talk/request-forecasting-methods-in-dynamic-vehicle-routing-problems-jopt/</link>
-      <pubDate>Mon, 06 May 2024 08:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/request-forecasting-methods-in-dynamic-vehicle-routing-problems-jopt/</guid>
       <description></description>
     </item>
     
@@ -117,14 +93,6 @@
     </item>
     
     <item>
-      <title>L&#39;IA, l&#39;État et nous (OBVIA)</title>
-      <link>https://martincousi.github.io/talk/lia-letat-et-nous-obvia/</link>
-      <pubDate>Tue, 20 Feb 2024 17:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/lia-letat-et-nous-obvia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Impact of Psychiatric Follow-up Frequency on Outcomes and Waiting Times</title>
       <link>https://martincousi.github.io/publication/timing-depression/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
@@ -137,54 +105,6 @@
       <link>https://martincousi.github.io/publication/implicit-tws/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/implicit-tws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Les Chocs de l&#39;innovation en santé</title>
-      <link>https://martincousi.github.io/talk/les-chocs-de-linnovation-en-sante/</link>
-      <pubDate>Tue, 28 Nov 2023 17:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/les-chocs-de-linnovation-en-sante/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The impact of psychiatric outpatient follow-up visit frequency on clinical outcomes and waiting times (INFORMS)</title>
-      <link>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</link>
-      <pubDate>Wed, 26 Jul 2023 09:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/the-impact-of-psychiatric-outpatient-follow-up-visit-frequency-on-clinical-outcomes-and-waiting-times-informs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The evolution of global supply chains under geopolitical uncertainty (POMS)</title>
-      <link>https://martincousi.github.io/talk/the-evolution-of-global-supply-chains-under-geopolitical-uncertainty-poms/</link>
-      <pubDate>Tue, 18 Jul 2023 09:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/the-evolution-of-global-supply-chains-under-geopolitical-uncertainty-poms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning implicit multiple time windows in the traveling salesman problem (CORS)</title>
-      <link>https://martincousi.github.io/talk/learning-implicit-multiple-time-windows-in-the-traveling-salesman-problem-cors/</link>
-      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/learning-implicit-multiple-time-windows-in-the-traveling-salesman-problem-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems using deep reinforcement learning with centralized control (CORS)</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-using-deep-reinforcement-learning-with-centralized-control-cors/</link>
-      <pubDate>Mon, 29 May 2023 09:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-using-deep-reinforcement-learning-with-centralized-control-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L&#39;impact de la fréquence des visites de suivi des patients externes en psychiatrie sur les  réponses cliniques et les temps d&#39;attente</title>
-      <link>https://martincousi.github.io/talk/limpact-de-la-frequence-des-visites-de-suivi-des-patients-externes-en-psychiatrie-sur-les-reponses-cliniques-et-les-temps-dattente/</link>
-      <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/limpact-de-la-frequence-des-visites-de-suivi-des-patients-externes-en-psychiatrie-sur-les-reponses-cliniques-et-les-temps-dattente/</guid>
       <description></description>
     </item>
     
@@ -233,30 +153,6 @@
       <link>https://martincousi.github.io/talk/quest-ce-que-lia-en-sante-obvia/</link>
       <pubDate>Tue, 14 Jun 2022 12:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/talk/quest-ce-que-lia-en-sante-obvia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic: Final results (CORS)</title>
-      <link>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-final-results-cors/</link>
-      <pubDate>Mon, 06 Jun 2022 11:15:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-final-results-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control (CORS)</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-cors/</link>
-      <pubDate>Sun, 05 Jun 2022 11:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems with heuristic-guided deep reinforcement learning and centralized control (JOPT)</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</link>
-      <pubDate>Mon, 16 May 2022 16:20:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-heuristic-guided-deep-reinforcement-learning-and-centralized-control-jopt/</guid>
       <description></description>
     </item>
     
@@ -329,38 +225,6 @@
       <link>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-informs/</link>
       <pubDate>Wed, 21 Jul 2021 15:40:00 +0000</pubDate>
       <guid>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-informs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A prototype for the recommendation of treatment-resistant depression treatments (CORS)</title>
-      <link>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-cors/</link>
-      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/a-prototype-for-the-recommendation-of-treatment-resistant-depression-treatments-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving multi-echelon inventory problems with deep reinforcement learning (CORS)</title>
-      <link>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-deep-reinforcement-learning-cors/</link>
-      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/solving-multi-echelon-inventory-problems-with-deep-reinforcement-learning-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic (CORS)</title>
-      <link>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-cors/</link>
-      <pubDate>Thu, 10 Jun 2021 13:30:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/the-effect-of-visibility-on-forecast-and-inventory-management-performance-during-the-covid-19-pandemic-cors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A branch-and-bound algorithm with machine learning for the open-shop scheduling problem (CORS)</title>
-      <link>https://martincousi.github.io/talk/a-branch-and-bound-algorithm-with-machine-learning-for-the-open-shop-scheduling-problem-cors/</link>
-      <pubDate>Mon, 07 Jun 2021 13:30:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/talk/a-branch-and-bound-algorithm-with-machine-learning-for-the-open-shop-scheduling-problem-cors/</guid>
       <description></description>
     </item>
     
