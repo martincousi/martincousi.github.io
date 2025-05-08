@@ -5,12 +5,28 @@
     <link>https://martincousi.github.io/</link>
       <atom:link href="https://martincousi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Cousineau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Martin Cousineau</copyright><lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>Martin Cousineau</title>
       <link>https://martincousi.github.io/</link>
     </image>
+    
+    <item>
+      <title>Gamifying the vehicle routing problem with stochastic requests</title>
+      <link>https://martincousi.github.io/publication/gamifying-vrpsr/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/gamifying-vrpsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing health care with digital twins: Meta-review of applications and implementation challenges</title>
+      <link>https://martincousi.github.io/publication/digital-twins/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/digital-twins/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Solving the on-demand bus routing problem</title>
@@ -25,6 +41,14 @@
       <link>https://martincousi.github.io/publication/ppe-stockpiling/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/publication/ppe-stockpiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamifying the vehicle routing problem with stochastic requests (INFORMS)</title>
+      <link>https://martincousi.github.io/talk/gamifying-the-vehicle-routing-problem-with-stochastic-requests-informs/</link>
+      <pubDate>Sun, 20 Oct 2024 08:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/talk/gamifying-the-vehicle-routing-problem-with-stochastic-requests-informs/</guid>
       <description></description>
     </item>
     
@@ -49,14 +73,6 @@
       <link>https://martincousi.github.io/talk/friendshoring-how-geopolitical-tensions-affect-foreign-supply-bases-and-supply-network-structures-aom/</link>
       <pubDate>Fri, 09 Aug 2024 07:00:00 +0000</pubDate>
       <guid>https://martincousi.github.io/talk/friendshoring-how-geopolitical-tensions-affect-foreign-supply-bases-and-supply-network-structures-aom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gamifying the vehicle routing problem with stochastic requests</title>
-      <link>https://martincousi.github.io/publication/gamifying-vrpsr/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://martincousi.github.io/publication/gamifying-vrpsr/</guid>
       <description></description>
     </item>
     

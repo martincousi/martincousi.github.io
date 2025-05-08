@@ -5,12 +5,20 @@
     <link>https://martincousi.github.io/publication-type/2/</link>
       <atom:link href="https://martincousi.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Martin Cousineau</copyright><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Martin Cousineau</copyright><lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martincousi.github.io/media/icon_hufc1372955458b3a50e3f84043747b397_2754_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://martincousi.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Advancing health care with digital twins: Meta-review of applications and implementation challenges</title>
+      <link>https://martincousi.github.io/publication/digital-twins/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://martincousi.github.io/publication/digital-twins/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimizing strategic personal protective equipment stockpiling: An assessment using Morris sensitivity analysis</title>
