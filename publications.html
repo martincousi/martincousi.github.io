@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Publications — Martin Cousineau</title>
+<meta name="description" content="Martin Cousineau — Associate Professor, Department of Logistics and Operations Management, HEC Montréal.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23003DA5'/%3E%3Ctext x='16' y='22' font-family='Helvetica,Arial,sans-serif' font-size='18' font-weight='700' fill='white' text-anchor='middle'%3EMC%3C/text%3E%3C/svg%3E">
+<style>
+:root {
+  --navy: #003DA5;
+  --navy-dark: #002a73;
+  --ink: #1c1f26;
+  --muted: #5b616e;
+  --rule: #e3e6ea;
+  --bg: #ffffff;
+  --bg-soft: #f6f7f9;
+  --accent: #c8102e;
+  --max: 46rem;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --ink: #e6e8ee; --muted: #a2a8b4; --rule: #2b303a; --bg: #12141a; --bg-soft: #1a1d25; --navy: #6f9cff; --navy-dark: #9dbaff; }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; font-family: var(--sans); font-size: 17px; line-height: 1.6; color: var(--ink); background: var(--bg); }
+a { color: var(--navy); text-decoration: none; }
+a:hover { color: var(--navy-dark); text-decoration: underline; }
+main { max-width: var(--max); margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+h1 { font-size: 2rem; line-height: 1.15; margin: 0 0 .25rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.15rem; text-transform: uppercase; letter-spacing: .08em; color: var(--navy); margin: 3rem 0 1rem; padding-bottom: .35rem; border-bottom: 2px solid var(--navy); }
+h3 { font-size: 1.05rem; margin: 1.8rem 0 .6rem; color: var(--ink); }
+p { margin: 0 0 1rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0 0 .5rem; }
+code { font-size: .9em; background: var(--bg-soft); padding: .1em .3em; border-radius: 3px; }
+blockquote { margin: 1rem 0; padding: .5rem 1rem; border-left: 3px solid var(--navy); background: var(--bg-soft); color: var(--muted); }
+table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+th, td { text-align: left; padding: .4rem .5rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { color: var(--muted); font-weight: 600; }
+
+.site-header { max-width: var(--max); margin: 0 auto; padding: 1.25rem 1.25rem 0; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 1.5rem; }
+.brand { font-weight: 700; color: var(--ink); font-size: 1.05rem; }
+.site-header nav { display: flex; flex-wrap: wrap; gap: 1.1rem; font-size: .95rem; }
+.site-header nav a { color: var(--muted); }
+.site-header nav a.active, .site-header nav a:hover { color: var(--navy); text-decoration: none; border-bottom: 2px solid var(--navy); }
+.site-footer { max-width: var(--max); margin: 0 auto; padding: 1rem 1.25rem 2rem; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--rule); }
+
+.hero { display: flex; gap: 2rem; align-items: flex-start; margin: 2rem 0 1rem; }
+.hero img { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex: none; box-shadow: 0 2px 12px rgba(0,0,0,.12); }
+.pronouns { font-size: 1rem; font-weight: 400; color: var(--muted); }
+.hero .role { color: var(--muted); margin-bottom: .6rem; }
+.hero .links { display: flex; flex-wrap: wrap; gap: .4rem 1rem; font-size: .95rem; }
+.hero .links a { white-space: nowrap; }
+@media (max-width: 560px) { .hero { flex-direction: column; gap: 1rem; } .hero img { width: 120px; height: 120px; } }
+
+.interests { display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; list-style: none; }
+.interests li { margin: 0; padding: .25rem .7rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .9rem; color: var(--muted); }
+
+.pubs { list-style: none; padding: 0; }
+.pubs li { margin: 0 0 1rem; padding-left: 0; }
+.pubs .title { font-weight: 600; }
+.pubs .venue { color: var(--muted); }
+.pubs .meta a { margin-right: .8rem; font-size: .9rem; }
+.pubs .tag { display: inline-block; font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--accent); margin-left: .4rem; }
+.me { text-decoration: underline; text-decoration-color: var(--navy); text-underline-offset: 3px; }
+
+.timeline { list-style: none; padding: 0; }
+.timeline li { display: grid; grid-template-columns: 11.5rem 1fr; gap: 1rem; margin-bottom: .8rem; }
+.timeline .when { color: var(--muted); font-size: .92rem; padding-top: .1rem; white-space: nowrap; }
+.timeline .what strong { display: block; }
+.timeline .what span { color: var(--muted); }
+@media (max-width: 560px) { .timeline li { grid-template-columns: 1fr; gap: 0; } }
+
+.students { list-style: none; padding: 0; }
+.students li { display: grid; grid-template-columns: 10.5rem 1fr; gap: 1rem; margin-bottom: .7rem; font-size: .97rem; }
+.students .when { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+.students .desc { color: var(--muted); }
+@media (max-width: 560px) { .students li { grid-template-columns: 1fr; gap: 0; } }
+
+.notes li { margin-bottom: .6rem; }
+.notes .date { color: var(--muted); font-size: .9rem; margin-left: .5rem; }
+.post h1 { margin-top: 2rem; }
+.post .date { color: var(--muted); }
+.post img { max-width: 100%; }
+.contact dl { display: grid; grid-template-columns: 7rem 1fr; gap: .3rem 1rem; }
+.contact dt { color: var(--muted); }
+.contact dd { margin: 0; }
+.small { font-size: .9rem; color: var(--muted); }
+
+.themes { list-style: none; padding: 0; }
+.themes li { margin-bottom: .6rem; }
+
+</style>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html">Martin Cousineau</a>
+  <nav>
+    <a href="index.html#about">About</a>
+    <a href="publications.html" class="active">Publications</a>
+    <a href="students.html">Students</a>
+    <a href="index.html#teaching">Teaching</a>
+<a href="index.html#notes">Notes</a>    <a href="index.html#contact">Contact</a>
+  </nav>
+</header>
+<main>
+<h1>Publications</h1>
+<p class="small">A <a href="publications.bib">BibTeX file</a> of all entries is available. My name appears in bold.</p>
+
+<h2>Refereed journal articles</h2>
+<ul class="pubs">  <li id="charpin2026">
+    <div class="title">De-risking from China: how US firms reconfigure sourcing through decoupling, diversification and friendshoring across geopolitical disruptions</div>
+    <div>Charpin R, <strong>Cousineau M</strong>, Fan D</div>
+    <div class="venue"><em>International Journal of Operations &amp; Production Management</em>, 2026    </div>
+    <div class="meta"><a href="https://doi.org/10.1108/IJOPM-02-2026-0240">DOI</a><a href="uploads/Charpin_Cousineau_Fan-2026-De-risking_from_China.pdf">PDF</a></div>
+  </li>
+  <li id="mortes2026">
+    <div class="title">Small and large neighborhood search for the on-demand bus routing problem: A bus stop assignment and transportation problem</div>
+    <div>Mortes J, <strong>Cousineau M</strong>, Lehuédé F, Mendoza JE, Restrepo MI</div>
+    <div class="venue"><em>Computers &amp; Operations Research</em>, 196, 107641, 2026    </div>
+    <div class="meta"><a href="https://doi.org/10.1016/j.cor.2026.107641">DOI</a></div>
+  </li>
+  <li id="kullman2026">
+    <div class="title">Gamifying the vehicle routing problem with stochastic requests</div>
+    <div>Kullman ND, Dudorov N, <strong>Cousineau M</strong>, Mendoza JE, Goodson JC</div>
+    <div class="venue"><em>INFORMS Journal on Computing</em>, 38(5), 1543-1557, 2026    </div>
+    <div class="meta"><a href="https://doi.org/10.1287/ijoc.2024.0838">DOI</a><a href="uploads/Gamification_VRPSR.pdf">PDF</a></div>
+  </li>
+  <li id="belanger2025">
+    <div class="title">Digital symptom checkers for COVID-19: A scoping review and pilot study of the ENTIRE quality appraisal tool for health informatics studies</div>
+    <div>Bélanger V, <strong>Cousineau M</strong>, Moreault M-P, Motulsky A</div>
+    <div class="venue"><em>BMC Digital Health</em>, 3(49), 2025    </div>
+    <div class="meta"><a href="https://doi.org/10.1186/s44247-025-00189-x">DOI</a></div>
+  </li>
+  <li id="yousefi2025">
+    <div class="title">Artificial intelligence (AI) in health promotion and disease reduction: A rapid review</div>
+    <div>Yousefi F, Naye F, Ouellet S, Yameogo A, Sasseville M, Bergeron F, Ozkan M, <strong>Cousineau M</strong>, Amil S, Rhéaume C, Gagnon M-P</div>
+    <div class="venue"><em>Journal of Medical Internet Research</em>, 27, e70381, 2025    </div>
+    <div class="meta"><a href="https://doi.org/10.2196/70381">DOI</a><a href="https://doi.org/10.61737/PJLD3032">Full report (FR)</a></div>
+  </li>
+  <li id="ringeval2025">
+    <div class="title">Advancing health care with digital twins: Meta-review of applications and implementation challenges</div>
+    <div>Ringeval M, Etindele Sosso FA, <strong>Cousineau M</strong>, Paré G</div>
+    <div class="venue"><em>Journal of Medical Internet Research</em>, 27, e69544, 2025    </div>
+    <div class="meta"><a href="https://doi.org/10.2196/69544">DOI</a></div>
+  </li>
+  <li id="dehkhoda2025">
+    <div class="title">The effect of visibility on forecast and inventory management performance during the COVID-19 pandemic</div>
+    <div>Dehkhoda K, Bélanger V, <strong>Cousineau M</strong></div>
+    <div class="venue"><em>International Journal of Production Research</em>, 63(8), 2970-2992, 2025    </div>
+    <div class="meta"><a href="https://doi.org/10.1080/00207543.2024.2414380">DOI</a></div>
+  </li>
+  <li id="charpin2024">
+    <div class="title">Friendshoring: How geopolitical tensions affect foreign sourcing, supply base complexity and sub-tier supplier sharing</div>
+    <div>Charpin R, <strong>Cousineau M</strong></div>
+    <div class="venue"><em>International Journal of Operations &amp; Production Management</em>, 45(5), 1006-1031, 2025<span class="tag">2025 IJOPM Outstanding Paper Award</span>    </div>
+    <div class="meta"><a href="https://doi.org/10.1108/IJOPM-01-2024-0067">DOI</a><a href="uploads/Charpin_Cousineau-2024-Friendshoring.pdf">PDF</a></div>
+  </li>
+  <li id="cousineau2024">
+    <div class="title">Impact of psychiatric follow-up frequency on outcomes and waiting times</div>
+    <div><strong>Cousineau M</strong>, Verter V, Turecki G</div>
+    <div class="venue"><em>The American Journal of Managed Care</em>, 30(2), e52-e58, 2024    </div>
+    <div class="meta"><a href="https://doi.org/10.37765/ajmc.2024.89501">DOI</a></div>
+  </li>
+  <li id="belanger2023">
+    <div class="title">Le niveau de maturité digitale de la chaîne logistique interne des établissements de santé de la province de Québec : une étude exploratoire</div>
+    <div>Bélanger V, <strong>Cousineau M</strong>, Snowdon A, Beaulieu M</div>
+    <div class="venue"><em>Management &amp; Avenir Santé</em>, 9(1), 81-104, 2023    </div>
+    <div class="meta"><a href="https://doi.org/10.3917/mavs.009.0081">DOI</a></div>
+  </li>
+  <li id="cousineau2023">
+    <div class="title">Estimating causal effects with optimization-based methods: A review and empirical comparison</div>
+    <div><strong>Cousineau M</strong>, Verter V, Murphy SA, Pineau J</div>
+    <div class="venue"><em>European Journal of Operational Research</em>, 304(2), 367-380, 2023    </div>
+    <div class="meta"><a href="https://doi.org/10.1016/j.ejor.2022.01.046">DOI</a></div>
+  </li>
+  <li id="kullman2022">
+    <div class="title">Dynamic ride-hailing with electric vehicles</div>
+    <div>Kullman ND, <strong>Cousineau M</strong>, Goodson JC, Mendoza JE</div>
+    <div class="venue"><em>Transportation Science</em>, 56(3), 775-794, 2022<span class="tag">2023 Transportation Science Journal Paper of the Year (INFORMS)</span>    </div>
+    <div class="meta"><a href="https://doi.org/10.1287/trsc.2021.1042">DOI</a></div>
+  </li>
+  <li id="cousineau2015">
+    <div class="title">RWA problem with geodesics in realistic OTN topologies</div>
+    <div><strong>Cousineau M</strong>, Perron S, Caporossi G, Paiva M, Segatto M</div>
+    <div class="venue"><em>Optical Switching and Networking</em>, 15, 18-28, 2015    </div>
+    <div class="meta"><a href="https://doi.org/10.1016/j.osn.2014.05.010">DOI</a></div>
+  </li>
+  <li id="gagnon2010">
+    <div class="title">A resistive mesh phantom for assessing the performance of EIT systems</div>
+    <div>Gagnon H, <strong>Cousineau M</strong>, Adler A, Hartinger AE</div>
+    <div class="venue"><em>IEEE Transactions on Biomedical Engineering</em>, 57(9), 2257-2266, 2010    </div>
+    <div class="meta"><a href="https://doi.org/10.1109/TBME.2010.2052618">DOI</a></div>
+  </li>
+</ul>
+
+<h2>Working papers</h2>
+<ul class="pubs">  <li id="ghahtarani2026">
+    <div class="title">NeuroPlanner: Learning implicit planner knowledge for vehicle routing</div>
+    <div>Ghahtarani A, Rabasse E, <strong>Cousineau M</strong>, Mendoza JE</div>
+    <div class="venue">Working paper, 2026    </div>
+    <div class="meta"></div>
+  </li>
+  <li id="ghahtarani2025">
+    <div class="title">Press Start to Charge: Videogaming the online centralized charging scheduling problem</div>
+    <div>Ghahtarani A, <strong>Cousineau M</strong>, Farahmand AM, Mendoza JE</div>
+    <div class="venue">Working paper, 2026 (arXiv:2601.12543)    </div>
+    <div class="meta"><a href="https://arxiv.org/abs/2601.12543">arXiv</a></div>
+  </li>
+  <li id="ghernaout2025">
+    <div class="title">Approximating duration in arc routing problems: A pipeline inspection case study</div>
+    <div>Ghernaout N, <strong>Cousineau M</strong>, Guéret C, Rivreau D</div>
+    <div class="venue">Working paper, 2025    </div>
+    <div class="meta"></div>
+  </li>
+</ul>
+
+<h2>Conference proceedings</h2>
+<ul class="pubs">  <li id="mortes2025a">
+    <div class="title">Learning implicit multiple time windows in the Traveling Salesman Problem</div>
+    <div>Mortes J, <strong>Cousineau M</strong>, Lehuédé F, Mendoza JE, Restrepo MI</div>
+    <div class="venue"><em>Transportation Research Procedia</em>, 2025    </div>
+    <div class="meta"><a href="https://doi.org/10.1016/j.trpro.2024.12.220">DOI</a></div>
+  </li>
+  <li id="charpin2024a">
+    <div class="title">Friendshoring: How geopolitical tensions affect foreign supply bases and supply network structures</div>
+    <div>Charpin R, <strong>Cousineau M</strong></div>
+    <div class="venue"><em>Academy of Management Proceedings</em>, 2024    </div>
+    <div class="meta"><a href="https://doi.org/10.5465/AMPROC.2024.20270abstract">DOI</a></div>
+  </li>
+  <li id="shahin2024">
+    <div class="title">Optimizing strategic Personal Protective Equipment stockpiling: An assessment using Morris sensitivity analysis</div>
+    <div>Shahin R, Beaulieu M, Bélanger V, <strong>Cousineau M</strong></div>
+    <div class="venue"><em>Engineering Proceedings</em>, 2024    </div>
+    <div class="meta"><a href="https://doi.org/10.3390/engproc2024076029">DOI</a></div>
+  </li>
+</ul>
+
+<h2>Book chapters</h2>
+<ul class="pubs">  <li id="belanger2025a">
+    <div class="title">Applications de l'intelligence artificielle à la logistique de la santé</div>
+    <div>Bélanger V, <strong>Cousineau M</strong></div>
+    <div class="venue">Chapter in <em>De la donnée aux systèmes d'IA en santé</em>, Presses de l'Université Laval, 2026 (in press)    </div>
+    <div class="meta"></div>
+  </li>
+  <li id="shahin2024a">
+    <div class="title">Calibrating resilience strategies for PPE: Lessons from the COVID-19 pandemic</div>
+    <div>Shahin R, Beaulieu M, Bélanger V, <strong>Cousineau M</strong></div>
+    <div class="venue">Chapter in <em>Hospital supply chain: Challenges and opportunities for improving healthcare</em>, Springer, 2024    </div>
+    <div class="meta"></div>
+  </li>
+</ul>
+
+<h2>Teaching cases</h2>
+<ul class="pubs">  <li id="jodoin2024">
+    <div class="title">L'art de la pige en hauteur dans la préparation de commandes : le cas du Groupe Robert</div>
+    <div>Jodoin C, Bélanger V, <strong>Cousineau M</strong></div>
+    <div class="venue"><em>International Journal of Case Studies in Management</em>, 22(1), 2024    </div>
+    <div class="meta"><a href="https://education.hec.ca/centredecas/app/fr/case-detail?id=9502&titleLang=fr">HEC case centre</a></div>
+  </li>
+  <li id="dhanuka2023">
+    <div class="title">Choosing warehouse automation technologies at WIPTEC</div>
+    <div>Dhanuka AA, Bélanger V, <strong>Cousineau M</strong></div>
+    <div class="venue"><em>International Journal of Case Studies in Management</em>, 21(3), 2023    </div>
+    <div class="meta"><a href="https://education.hec.ca/centredecas/app/en/case-detail?id=9262&titleLang=en">HEC case centre</a><a href="https://store.hbr.org/product/choosing-warehouse-automation-technologies-at-wiptec/HEC358">Harvard Business Publishing</a></div>
+  </li>
+  <li id="beaulieu2022">
+    <div class="title">Logistical challenges of preparing surgical materials for the Montreal University Health Centre</div>
+    <div>Beaulieu M, Bélanger V, <strong>Cousineau M</strong></div>
+    <div class="venue"><em>International Journal of Case Studies in Management</em>, 20(2), 2022    </div>
+    <div class="meta"><a href="https://education.hec.ca/centredecas/app/en/case-detail?id=8664&titlelang=fr">HEC case centre</a></div>
+  </li>
+</ul>
+
+<h2>Reports and theses</h2>
+<ul class="pubs">  <li id="cousineau2022">
+    <div class="title">Fiches 1 à 4 : définitions et usages, promesses, aspects juridiques et enjeux éthiques de l'IA en santé</div>
+    <div><strong>Cousineau M</strong>, Castonguay A, Després P, Motulsky A, Nikiema JN, Badr J, Martineau JT, Petitgand C, Régis C</div>
+    <div class="venue">Four briefing notes prepared by the Obvia Sustainable Health research theme for the Ministère de la Santé et des Services sociaux (MSSS), 2022    </div>
+    <div class="meta"><a href="https://doi.org/10.61737/GDBG7853">DOI</a><a href="uploads/Obvia_Fiche_1.pdf">PDF 1</a><a href="uploads/Obvia_Fiche_2.pdf">PDF 2</a><a href="uploads/Obvia_Fiche_3.pdf">PDF 3</a><a href="uploads/Obvia_Fiche_4.pdf">PDF 4</a></div>
+  </li>
+  <li id="badr2021">
+    <div class="title">Intégrer l'IA dans un contexte réel de soins</div>
+    <div>Badr J, Barkany A, Castonguay A, <strong>Cousineau M</strong>, Després P, Nikiema JN, Motulsky A, Paré G, Petitgand C, Régis C, Wagner G</div>
+    <div class="venue">Report prepared by the Obvia Sustainable Health research theme for the Ministère de la Santé et des Services sociaux (MSSS), 2021    </div>
+    <div class="meta"></div>
+  </li>
+  <li id="cousineau2020">
+    <div class="title">Analytics for medical decision making: Applications to the management of treatment-resistant depression</div>
+    <div><strong>Cousineau M</strong></div>
+    <div class="venue">Ph.D. thesis, McGill University, 2020    </div>
+    <div class="meta"><a href="https://escholarship.mcgill.ca/concern/theses/st74cw06n">Link</a></div>
+  </li>
+  <li id="cousineau2013">
+    <div class="title">Optimisation du routage et de l'affectation de longueurs d'onde sur un réseau de télécommunication par programmation mathématique</div>
+    <div><strong>Cousineau M</strong></div>
+    <div class="venue">M.Sc. thesis, HEC Montréal, 2013    </div>
+    <div class="meta"><a href="https://doi.org/10.13140/RG.2.1.2631.4722">DOI</a></div>
+  </li>
+</ul>
+
+
+<h2>Invited research seminars</h2>
+<ul class="pubs">
+  <li><div class="title">NeuroPlanner: Learning implicit planner knowledge for vehicle routing</div>
+      <div class="venue">IMT Atlantique, Nantes, France, 2026</div></li>
+  <li><div class="title">Scheduling the recharge of electric vehicles using videogames</div>
+      <div class="venue">Haskayne School of Business, University of Calgary, Canada, 2026</div></li>
+  <li><div class="title">Deep reinforcement learning for electric vehicle fleet management and gamified routing</div>
+      <div class="venue">LARIS, Université d'Angers, France, 2024</div></li>
+  <li><div class="title">Gamifying the vehicle routing problem with stochastic service requests</div>
+      <div class="venue">MODELIS-ROOT seminar, IMT Atlantique &amp; Université de Tours, France, 2024</div></li>
+  <li><div class="title">Deep reinforcement learning for electric vehicle fleet management and gamified routing</div>
+      <div class="venue">Alberta School of Business, University of Alberta, Canada, 2024</div></li>
+  <li><div class="title">The integration of machine learning and operations research to solve more realistic problems</div>
+      <div class="venue">CIRRELT, Montréal, Canada, 2022</div></li>
+</ul>
+</main>
+<footer class="site-footer">
+  <p>© 2026 Martin Cousineau · Updated 2026-11-25.</p>
+</footer>
+</body>
+</html>

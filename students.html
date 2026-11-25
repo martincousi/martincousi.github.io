@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Students — Martin Cousineau</title>
+<meta name="description" content="Martin Cousineau — Associate Professor, Department of Logistics and Operations Management, HEC Montréal.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23003DA5'/%3E%3Ctext x='16' y='22' font-family='Helvetica,Arial,sans-serif' font-size='18' font-weight='700' fill='white' text-anchor='middle'%3EMC%3C/text%3E%3C/svg%3E">
+<style>
+:root {
+  --navy: #003DA5;
+  --navy-dark: #002a73;
+  --ink: #1c1f26;
+  --muted: #5b616e;
+  --rule: #e3e6ea;
+  --bg: #ffffff;
+  --bg-soft: #f6f7f9;
+  --accent: #c8102e;
+  --max: 46rem;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --ink: #e6e8ee; --muted: #a2a8b4; --rule: #2b303a; --bg: #12141a; --bg-soft: #1a1d25; --navy: #6f9cff; --navy-dark: #9dbaff; }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; font-family: var(--sans); font-size: 17px; line-height: 1.6; color: var(--ink); background: var(--bg); }
+a { color: var(--navy); text-decoration: none; }
+a:hover { color: var(--navy-dark); text-decoration: underline; }
+main { max-width: var(--max); margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+h1 { font-size: 2rem; line-height: 1.15; margin: 0 0 .25rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.15rem; text-transform: uppercase; letter-spacing: .08em; color: var(--navy); margin: 3rem 0 1rem; padding-bottom: .35rem; border-bottom: 2px solid var(--navy); }
+h3 { font-size: 1.05rem; margin: 1.8rem 0 .6rem; color: var(--ink); }
+p { margin: 0 0 1rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0 0 .5rem; }
+code { font-size: .9em; background: var(--bg-soft); padding: .1em .3em; border-radius: 3px; }
+blockquote { margin: 1rem 0; padding: .5rem 1rem; border-left: 3px solid var(--navy); background: var(--bg-soft); color: var(--muted); }
+table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+th, td { text-align: left; padding: .4rem .5rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { color: var(--muted); font-weight: 600; }
+
+.site-header { max-width: var(--max); margin: 0 auto; padding: 1.25rem 1.25rem 0; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 1.5rem; }
+.brand { font-weight: 700; color: var(--ink); font-size: 1.05rem; }
+.site-header nav { display: flex; flex-wrap: wrap; gap: 1.1rem; font-size: .95rem; }
+.site-header nav a { color: var(--muted); }
+.site-header nav a.active, .site-header nav a:hover { color: var(--navy); text-decoration: none; border-bottom: 2px solid var(--navy); }
+.site-footer { max-width: var(--max); margin: 0 auto; padding: 1rem 1.25rem 2rem; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--rule); }
+
+.hero { display: flex; gap: 2rem; align-items: flex-start; margin: 2rem 0 1rem; }
+.hero img { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex: none; box-shadow: 0 2px 12px rgba(0,0,0,.12); }
+.pronouns { font-size: 1rem; font-weight: 400; color: var(--muted); }
+.hero .role { color: var(--muted); margin-bottom: .6rem; }
+.hero .links { display: flex; flex-wrap: wrap; gap: .4rem 1rem; font-size: .95rem; }
+.hero .links a { white-space: nowrap; }
+@media (max-width: 560px) { .hero { flex-direction: column; gap: 1rem; } .hero img { width: 120px; height: 120px; } }
+
+.interests { display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; list-style: none; }
+.interests li { margin: 0; padding: .25rem .7rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .9rem; color: var(--muted); }
+
+.pubs { list-style: none; padding: 0; }
+.pubs li { margin: 0 0 1rem; padding-left: 0; }
+.pubs .title { font-weight: 600; }
+.pubs .venue { color: var(--muted); }
+.pubs .meta a { margin-right: .8rem; font-size: .9rem; }
+.pubs .tag { display: inline-block; font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--accent); margin-left: .4rem; }
+.me { text-decoration: underline; text-decoration-color: var(--navy); text-underline-offset: 3px; }
+
+.timeline { list-style: none; padding: 0; }
+.timeline li { display: grid; grid-template-columns: 11.5rem 1fr; gap: 1rem; margin-bottom: .8rem; }
+.timeline .when { color: var(--muted); font-size: .92rem; padding-top: .1rem; white-space: nowrap; }
+.timeline .what strong { display: block; }
+.timeline .what span { color: var(--muted); }
+@media (max-width: 560px) { .timeline li { grid-template-columns: 1fr; gap: 0; } }
+
+.students { list-style: none; padding: 0; }
+.students li { display: grid; grid-template-columns: 10.5rem 1fr; gap: 1rem; margin-bottom: .7rem; font-size: .97rem; }
+.students .when { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+.students .desc { color: var(--muted); }
+@media (max-width: 560px) { .students li { grid-template-columns: 1fr; gap: 0; } }
+
+.notes li { margin-bottom: .6rem; }
+.notes .date { color: var(--muted); font-size: .9rem; margin-left: .5rem; }
+.post h1 { margin-top: 2rem; }
+.post .date { color: var(--muted); }
+.post img { max-width: 100%; }
+.contact dl { display: grid; grid-template-columns: 7rem 1fr; gap: .3rem 1rem; }
+.contact dt { color: var(--muted); }
+.contact dd { margin: 0; }
+.small { font-size: .9rem; color: var(--muted); }
+
+.themes { list-style: none; padding: 0; }
+.themes li { margin-bottom: .6rem; }
+
+</style>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html">Martin Cousineau</a>
+  <nav>
+    <a href="index.html#about">About</a>
+    <a href="publications.html">Publications</a>
+    <a href="students.html" class="active">Students</a>
+    <a href="index.html#teaching">Teaching</a>
+<a href="index.html#notes">Notes</a>    <a href="index.html#contact">Contact</a>
+  </nav>
+</header>
+<main>
+<h1>Students</h1>
+
+<h2>Prospective students</h2>
+<p>I have no funded positions open at the moment. I remain happy to hear from students with their own funding or scholarship (e.g., FRQNT, NSERC, IVADO, Mitacs) who have a quantitative background and are curious about combining optimization and machine learning, from HEC M.Sc. students looking for a supervised project, and from visiting students seeking a research internship. When writing, include a short description of your interests, your CV and transcripts. Write to <a href="mailto:martin.cousineau@hec.ca">martin.cousineau@hec.ca</a>; HEC M.Sc. students may also find my <a href="posts/writing-supervised-project-report.html">note on writing a supervised project report</a> useful.</p>
+
+<h2>Current</h2>
+<h3>Postdoctoral researchers</h3>
+<ul class="students">
+  <li><div class="when">since 2024</div>
+      <div><strong>Alireza Ghahtarani</strong> — The gamification of online stochastic optimization problems<br>
+      <span class="desc">HEC Montréal, co-supervised with J.E. Mendoza · <a href="publications.html#ghahtarani2025">Press Start to Charge (working paper)</a> · <a href="publications.html#ghahtarani2026">NeuroPlanner (working paper)</a></span></div></li>
+</ul>
+<h3>Master's theses</h3>
+<ul class="students">
+  <li><div class="when">since 2026</div>
+      <div><strong>Olivier Bruneau-Arbour</strong> — Les effets de la centralisation des achats sur la compétition dans les marchés publics québécois<br>
+      <span class="desc">HEC Montréal, co-supervised with C. Rebolledo</span></div></li>
+</ul>
+
+<h2>Alumni</h2>
+<h3>Doctoral students</h3>
+<ul class="students">
+  <li><div class="when">2022–2026</div>
+      <div><strong>Nadia Ghernaout</strong> — Optimisation de tournées de surveillance d'un réseau de transport de gaz à l'aide de l'apprentissage automatique<br>
+      <span class="desc">Université d'Angers, co-supervised with C. Guéret and D. Rivreau · <a href="publications.html#ghernaout2025">Approximating duration in arc routing problems (working paper)</a></span></div></li>
+</ul>
+<h3>Master's theses</h3>
+<ul class="students">
+  <li><div class="when">2021–2024</div>
+      <div><strong>Seyedhamid Seyedifazlollahi</strong> — Demand and travel time forecasting<br>
+      <span class="desc">École Polytechnique de Montréal, co-supervised with J. Carreau and M. Gendreau</span></div></li>
+  <li><div class="when">2023–2024</div>
+      <div><strong>Arzhang Khoshghalb</strong> — Facilitating Decision-Making for the Adoption of IoT Technologies in Healthcare Sector: A Sustainable Approach<br>
+      <span class="desc">HEC Montréal, co-supervised with V. Bélanger</span></div></li>
+  <li><div class="when">2020–2023</div>
+      <div><strong>Shadé Andjorin</strong> — Analyse de l'approvisionnement stratégique de matériel médical en temps de crise<br>
+      <span class="desc">HEC Montréal, co-supervised with V. Bélanger</span></div></li>
+  <li><div class="when">2020–2023</div>
+      <div><strong>Kaveh Dehkhoda</strong> — Providing a method for inventory management of healthcare facilities during COVID-19 pandemic<br>
+      <span class="desc">HEC Montréal, co-supervised with V. Bélanger · <a href="publications.html#dehkhoda2025">International Journal of Production Research 2025</a></span></div></li>
+</ul>
+<h3>Research interns and visiting students</h3>
+<ul class="students">
+  <li><div class="when">2026</div>
+      <div><strong>Sabia Irfan</strong> — Reinforcement learning for ambulance allocation<br>
+      <span class="desc">McGill University</span></div></li>
+  <li><div class="when">2026</div>
+      <div><strong>Emilio Melis</strong> — Solving the Traveling Salesman Problem Using Language Models and Visual Representations<br>
+      <span class="desc">Polytech Tours (France), co-supervised with J.E. Mendoza</span></div></li>
+  <li><div class="when">2026</div>
+      <div><strong>Émile Jacques-Tighe</strong> — Development of Flux, a pedagogical warehousing platform<br>
+      <span class="desc">Université de Sherbrooke, co-supervised with J.E. Mendoza</span></div></li>
+  <li><div class="when">2025</div>
+      <div><strong>Edouard Rabasse</strong> — Computer Vision for Route Classification and Iterative Improvement in the Park-and-Loop Routing Problem<br>
+      <span class="desc">École polytechnique (France), co-supervised with J.E. Mendoza · <a href="publications.html#ghahtarani2026">NeuroPlanner (working paper)</a></span></div></li>
+  <li><div class="when">2024</div>
+      <div><strong>Valentin L'Hermite</strong> — Fueling Efficiency: Harnessing Machine Learning and Operations Research for Optimal Technician Tour Scheduling in Gas Operations<br>
+      <span class="desc">Polytech Tours (France) and Université de Sherbrooke, co-supervised with C. Guéret and D. Rivreau</span></div></li>
+  <li><div class="when">2024</div>
+      <div><strong>Richard Pholvichith</strong> — Solving production planning problems using machine learning techniques<br>
+      <span class="desc">École polytechnique (France), co-supervised with R. Jans and M. Gruson</span></div></li>
+  <li><div class="when">2023</div>
+      <div><strong>Ange Ernestine Iradukunda</strong> — Predicting mental health outcomes using social media data in Africa: A machine learning approach<br>
+      <span class="desc">Carnegie Mellon University Africa</span></div></li>
+  <li><div class="when">2023</div>
+      <div><strong>Nikita Dudorov</strong> — New Atari-like environments for deep reinforcement learning<br>
+      <span class="desc">École polytechnique (France), co-supervised with J.E. Mendoza · <a href="publications.html#kullman2026">INFORMS Journal on Computing 2026</a></span></div></li>
+  <li><div class="when">2022</div>
+      <div><strong>Hajar Zegrati</strong> — Comparison between planning and execution of the last mile route<br>
+      <span class="desc">University of Brescia, co-supervised with M. Gendreau</span></div></li>
+  <li><div class="when">2021</div>
+      <div><strong>Yifan Bai</strong> — Web-based platform for the vehicle routing with stochastic service requests game<br>
+      <span class="desc">Université de Montréal, co-supervised with J.E. Mendoza</span></div></li>
+  <li><div class="when">2019</div>
+      <div><strong>Clément Grodecoeur</strong> — Exploitation des réseaux de neurones pour résoudre des problèmes de tournées stochastiques<br>
+      <span class="desc">Polytech Tours (France), co-supervised with J.E. Mendoza</span></div></li>
+</ul>
+
+
+<h2>Supervised projects</h2>
+<p>I also supervise M.Sc. supervised projects and undergraduate projects, most of them with industry or healthcare partners (44 completed since 2019, 4 in progress). Two of them led to published teaching cases (<a href="publications.html#jodoin2024">Jodoin et al. 2024</a>, <a href="publications.html#dhanuka2023">Dhanuka et al. 2023</a>).</p>
+</main>
+<footer class="site-footer">
+  <p>© 2026 Martin Cousineau · Updated 2026-11-25.</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Writing an M.Sc. supervised project report — Martin Cousineau</title>
+<meta name="description" content="Martin Cousineau — Associate Professor, Department of Logistics and Operations Management, HEC Montréal.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23003DA5'/%3E%3Ctext x='16' y='22' font-family='Helvetica,Arial,sans-serif' font-size='18' font-weight='700' fill='white' text-anchor='middle'%3EMC%3C/text%3E%3C/svg%3E">
+<style>
+:root {
+  --navy: #003DA5;
+  --navy-dark: #002a73;
+  --ink: #1c1f26;
+  --muted: #5b616e;
+  --rule: #e3e6ea;
+  --bg: #ffffff;
+  --bg-soft: #f6f7f9;
+  --accent: #c8102e;
+  --max: 46rem;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --ink: #e6e8ee; --muted: #a2a8b4; --rule: #2b303a; --bg: #12141a; --bg-soft: #1a1d25; --navy: #6f9cff; --navy-dark: #9dbaff; }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; font-family: var(--sans); font-size: 17px; line-height: 1.6; color: var(--ink); background: var(--bg); }
+a { color: var(--navy); text-decoration: none; }
+a:hover { color: var(--navy-dark); text-decoration: underline; }
+main { max-width: var(--max); margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+h1 { font-size: 2rem; line-height: 1.15; margin: 0 0 .25rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.15rem; text-transform: uppercase; letter-spacing: .08em; color: var(--navy); margin: 3rem 0 1rem; padding-bottom: .35rem; border-bottom: 2px solid var(--navy); }
+h3 { font-size: 1.05rem; margin: 1.8rem 0 .6rem; color: var(--ink); }
+p { margin: 0 0 1rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0 0 .5rem; }
+code { font-size: .9em; background: var(--bg-soft); padding: .1em .3em; border-radius: 3px; }
+blockquote { margin: 1rem 0; padding: .5rem 1rem; border-left: 3px solid var(--navy); background: var(--bg-soft); color: var(--muted); }
+table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+th, td { text-align: left; padding: .4rem .5rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { color: var(--muted); font-weight: 600; }
+
+.site-header { max-width: var(--max); margin: 0 auto; padding: 1.25rem 1.25rem 0; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 1.5rem; }
+.brand { font-weight: 700; color: var(--ink); font-size: 1.05rem; }
+.site-header nav { display: flex; flex-wrap: wrap; gap: 1.1rem; font-size: .95rem; }
+.site-header nav a { color: var(--muted); }
+.site-header nav a.active, .site-header nav a:hover { color: var(--navy); text-decoration: none; border-bottom: 2px solid var(--navy); }
+.site-footer { max-width: var(--max); margin: 0 auto; padding: 1rem 1.25rem 2rem; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--rule); }
+
+.hero { display: flex; gap: 2rem; align-items: flex-start; margin: 2rem 0 1rem; }
+.hero img { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex: none; box-shadow: 0 2px 12px rgba(0,0,0,.12); }
+.pronouns { font-size: 1rem; font-weight: 400; color: var(--muted); }
+.hero .role { color: var(--muted); margin-bottom: .6rem; }
+.hero .links { display: flex; flex-wrap: wrap; gap: .4rem 1rem; font-size: .95rem; }
+.hero .links a { white-space: nowrap; }
+@media (max-width: 560px) { .hero { flex-direction: column; gap: 1rem; } .hero img { width: 120px; height: 120px; } }
+
+.interests { display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; list-style: none; }
+.interests li { margin: 0; padding: .25rem .7rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .9rem; color: var(--muted); }
+
+.pubs { list-style: none; padding: 0; }
+.pubs li { margin: 0 0 1rem; padding-left: 0; }
+.pubs .title { font-weight: 600; }
+.pubs .venue { color: var(--muted); }
+.pubs .meta a { margin-right: .8rem; font-size: .9rem; }
+.pubs .tag { display: inline-block; font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--accent); margin-left: .4rem; }
+.me { text-decoration: underline; text-decoration-color: var(--navy); text-underline-offset: 3px; }
+
+.timeline { list-style: none; padding: 0; }
+.timeline li { display: grid; grid-template-columns: 11.5rem 1fr; gap: 1rem; margin-bottom: .8rem; }
+.timeline .when { color: var(--muted); font-size: .92rem; padding-top: .1rem; white-space: nowrap; }
+.timeline .what strong { display: block; }
+.timeline .what span { color: var(--muted); }
+@media (max-width: 560px) { .timeline li { grid-template-columns: 1fr; gap: 0; } }
+
+.students { list-style: none; padding: 0; }
+.students li { display: grid; grid-template-columns: 10.5rem 1fr; gap: 1rem; margin-bottom: .7rem; font-size: .97rem; }
+.students .when { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+.students .desc { color: var(--muted); }
+@media (max-width: 560px) { .students li { grid-template-columns: 1fr; gap: 0; } }
+
+.notes li { margin-bottom: .6rem; }
+.notes .date { color: var(--muted); font-size: .9rem; margin-left: .5rem; }
+.post h1 { margin-top: 2rem; }
+.post .date { color: var(--muted); }
+.post img { max-width: 100%; }
+.contact dl { display: grid; grid-template-columns: 7rem 1fr; gap: .3rem 1rem; }
+.contact dt { color: var(--muted); }
+.contact dd { margin: 0; }
+.small { font-size: .9rem; color: var(--muted); }
+
+.themes { list-style: none; padding: 0; }
+.themes li { margin-bottom: .6rem; }
+
+</style>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="../index.html">Martin Cousineau</a>
+  <nav>
+    <a href="../index.html#about">About</a>
+    <a href="../publications.html">Publications</a>
+    <a href="../students.html">Students</a>
+    <a href="../index.html#teaching">Teaching</a>
+<a href="../index.html#notes">Notes</a>    <a href="../index.html#contact">Contact</a>
+  </nav>
+</header>
+<main>
+<article class="post">
+<h1>Writing an M.Sc. supervised project report</h1>
+<p class="date">2021-08-27</p>
+<blockquote><p><strong>Note.</strong> This post represents my own views. Other supervisors may have different opinions.</p></blockquote><p>There exist several types of supervised projects. In this post, I will focus on writing a report for a <strong>supervised project within an organization</strong>. Some of my comments may also apply to other types of supervised project.</p><p>Some relevant official references from HEC Montréal are:</p><ul><li>MSc supervised projects – guidelines and requirements (<a href="https://www.hec.ca/en/students/my-program/msc/documents-en-us/Guide_PS_Nature_et_exigences_eng.pdf">English</a> / <a href="https://www.hec.ca/etudiants/mon-programme/maitrises/documents/Guide_PS_Nature_et_exigences_fra.pdf">French</a>);</li><li>Guidelines for writing an academic work at a graduate level (<a href="https://www.hec.ca/cfla/anglais/document/guidelines_academic_work.pdf">English</a> / <a href="https://www.hec.ca/cfla/francais/document/guide-redaction-travail-cycles.pdf">French</a>);</li><li>Citing your sources (<a href="https://libguides.hec.ca/citing">English</a> / <a href="https://libguides.hec.ca/citer">French</a>).</li></ul><p>You should look at these previous references since they complement this post. <em>It is your responsibility to submit a report that is concise, polished and well structured.</em></p><h2 id="structure">Structure</h2><h3 id="main-sections">Main sections</h3><p>A supervised project report is typically around 50 to 60 pages long (excluding the appendices) and generally includes the following sections:</p><ul><li>Introduction (explanation of the context and description of your mandate);</li><li>Literature review (highlight of some relevant literature, approximately 10 to 30 scientific articles or textbooks);</li><li>Methods (explanation of the steps you took to accomplish your mandate, e.g., interviews, models, code);</li><li>Results (discussion of the results you have obtained and proposition of some recommendations (if applicable));</li><li>Conclusions (summary of your project, and discussion of the limitations and future possible improvements).</li></ul><p>Note that it is also important to highlight some links between your project and your learnings in the specialization. This can be highlighted in a paragraph of the Conclusions section, for example.</p><h3 id="other-components">Other components</h3><p>In addition to these previous sections, your report should also contain the following front matter (prior to the Introduction):</p><ul><li>Title page (<em>not</em> listed in Table of contents);</li><li>Table of contents;</li><li>List of tables (listed in Table of contents);</li><li>List of figures (listed in Table of contents).</li></ul><p>The Title page should be counted but not numbered. The other components should be numbered in lower Roman numerals, starting at ii. Then, the main sections will be numbered with Arabic numerals starting at 1. In order to simplify the creation of your Table of contents, and List of tables and List of figures, you can respectively use the “Styles” and “Insert Caption” options of Microsoft Word; this will ensure that these components are up to date.</p><p>The back matter (listed in Table of contents) is numbered with Arabic numerals (continuing the numbering from the main sections) and contains the following sections:</p><ul><li>Appendices (documentation of your additional tables and figures, and code (if applicable));</li><li>List of references (documentation of the references cited in the report).</li></ul><p>The Appendices should contain the tables, figures and other elements that are not essential to the understanding of the main text. The essential tables and figures should be in your main text.</p><h2 id="language">Language</h2><p>It is important that you adopt a professional writing style in your report and don’t use casual sentences. You can refer to the above “Guidelines for writing an academic work at a graduate level” document or to any scientific articles for examples of such sentences. You can also ask someone else to read your report (if not forbidden by a non-disclosure agreement).</p><p>In addition, make sure that there are transitions between the different sections of your report and that the story flows naturally. You want the reader to be able to read your report without having to go back and forth.</p><p>Furthermore, on the first use of an acronym, you need to spell out the words first followed by the acronym in parentheses, e.g., operations management (OM), supply chains (SCs).</p><p>Finally, support and courses are also offered by the <a href="https://www.hec.ca/en/cfla/index.html">Business Language Training Centre (CFLA)</a>. In particular, you can register <em>for free</em> to four one-on-one tutoring sessions over four weeks to revise your supervised project report (<a href="https://www.hec.ca/en/cfla/English/one-on-one-tutoring/index.html">English</a> / <a href="https://www.hec.ca/cfla/francais/tutoriat-individuel/index.html">French</a>).</p><h2 id="tables-and-figures">Tables and figures</h2><p>Tables and figures are an essential part of your report in order to convey results, among others. These, however, need to be presented in a professional manner in order for the reader to appreciate them. First, your tables and figures should have a caption that explains their content and other characteristics (if applicable). Note that a caption generally goes <em>above</em> a table and <em>below</em> a figure.</p><p>Second, your tables and figures should come <em>after</em> they are introduced in the text, e.g., “As shown in Table 2, the …”, “… results (see Figure 1)”. Note that all tables and figures should be introduced in the text (including the ones in the appendices).</p><p>Third, your tables should have a table header (i.e., a row at the top of the table used to label each column). These labels (generally in bold font) as well as each entry in the table should be concise and easy to read. These tables should be designed directly in Microsoft Word and not a screenshot from another program.</p><p>Finally, your figures should have a high resolution so that they are easy to read. Ideally, you should reproduce these figures in PowerPoint, for example, instead of doing a screenshot if they are simple. If you use a figure (or table) from another source, it is important to acknowledge this source (in the caption) and make sure that you have the right to use it.</p><h2 id="references">References</h2><p>Your Literature review section, in particular, as well as other sections should contain several citations. It is important to adopt a consistent format for these citations throughout your report. Most reports are typically written using the author-year format (e.g., format of the American Psychological Association (APA)). This format will also dictate how your references are written in your List of references. You can refer to the above “Citing your sources” reference for more information regarding this topic. For information regarding the preferred format at HEC Montréal, you can refer to this <a href="https://libguides.hec.ca/style-hec">guide</a> (in French only); this format is similar to the APA 6th edition format.</p><p>Note I strongly recommend using reference-management software to manage these citations. This software will also automatically generate your list of references according to the format you want. Some popular reference-management tools are:</p><ul><li><a href="https://www.zotero.org/">Zotero</a> (free and open source, the software I am using);</li><li><a href="https://endnote.com/">EndNote</a> (free through HEC Montréal, see this <a href="https://libguides.hec.ca/endnote">link</a> for more info);</li><li><a href="https://www.mendeley.com/">Mendeley</a> (free).</li></ul><p>If you don’t know where to start with your literature review, you can refer to this pedagogical note (<a href="../uploads/Pedagogical_note_Literature_review.pdf">English</a> / <a href="../uploads/Note_pedagogique_Revue_litterature.pdf">French</a>). It may, however, be a bit too advanced depending on the type of your project.</p><p>You can also contact the <a href="https://www.hec.ca/en/library/services/reference-research-training.html">librarian for the Logistics and Operations Management department</a>. This person is highly qualified to help you with your literature review, and can help you determine the appropriate databases to search, the relevant keywords, etc.</p><h2 id="evaluation">Evaluation</h2><p>Note that your report will be evaluated by your supervisor (or co-supervisors) as well as one examiner. To do so, the evaluation grid at the end of the above “MSc supervised projects – guidelines and requirements” document will be used. It is thus important to look at whether and how your report addresses all of these elements.</p><h2 id="advancement">Advancement</h2><p>In conclusion, it is important to keep in touch with your supervisor during your supervised project and writing of the report, to avoid unpleasant surprises. You also need to send the initial draft of your report to your supervisor well before the <a href="https://www.hec.ca/en/students/my-program/msc/supervised-project/">deadline</a> (e.g., one month before) to allow enough time for modifications. Note that a good practice is to include your name and the date of your draft in the filename to facilitate the follow-up among the different versions.</p>
+
+</article>
+</main>
+<footer class="site-footer">
+  <p>© 2026 Martin Cousineau · Updated 2026-11-25.</p>
+</footer>
+</body>
+</html>
