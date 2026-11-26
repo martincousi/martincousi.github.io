@@ -96,28 +96,48 @@ th { color: var(--muted); font-weight: 600; }
 .news li { margin-bottom: .45rem; }
 .news .date { color: var(--muted); font-size: .9rem; display: inline-block; min-width: 6.5rem; }
 
-.glance { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
-.glance li { margin: 0; padding: .3rem .8rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .92rem; }
+/* home page: main column + side cards (one column below 880px, side cards after the main content) */
+.page-index main, .page-index .site-header, .page-index .site-footer { max-width: 70rem; }
+.layout { display: grid; grid-template-columns: minmax(0, 46rem) 19rem; gap: 3rem; justify-content: space-between; }
+.side { padding-top: 2rem; }
+.card { background: var(--bg-soft); border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1.2rem; font-size: .92rem; }
+.card h2 { font-size: .85rem; margin: 0 0 .7rem; padding-bottom: .3rem; border-bottom-width: 1px; }
+.plain { list-style: none; padding: 0; margin: 0; }
+.plain li { margin-bottom: .55rem; }
+.plain .date { color: var(--muted); margin-right: .35rem; }
+.card .small { font-size: .85rem; }
+.glance { list-style: none; padding: 0; margin: 0; }
+.glance li { margin-bottom: .3rem; }
+.glance strong { color: var(--navy); font-size: 1.05rem; }
+.glance-inline { display: none; }
+@media (max-width: 880px) {
+  .layout { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .side { padding-top: 1rem; }
+  .glance-side { display: none; }
+  .glance-inline { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1rem; }
+  .glance-inline li { margin: 0; padding: .2rem .7rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .88rem; }
+}
 details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; margin: .5rem 0 1rem; }
+.jump a { white-space: nowrap; }
 
 </style>
 </head>
-<body>
+<body class="page-publications">
 <header class="site-header">
   <a class="brand" href="index.html">Martin Cousineau</a>
   <nav>
-    <a href="index.html#about">About</a>
+    <a href="index.html">Home</a>
     <a href="publications.html" class="active">Publications</a>
     <a href="students.html">Students</a>
-    <a href="index.html#teaching">Teaching</a>
-<a href="index.html#notes">Notes</a>    <a href="index.html#contact">Contact</a>
+    <a href="index.html#contact">Contact</a>
   </nav>
 </header>
 <main>
 <h1>Publications</h1>
 <p class="small">A <a href="publications.bib">BibTeX file</a> of all entries is available. My name appears in bold.</p>
+<p class="jump small">Jump to: <a href="#journal">Refereed journal articles (14)</a> · <a href="#working">Working papers (3)</a> · <a href="#proceedings">Conference proceedings (3)</a> · <a href="#chapters">Book chapters (2)</a> · <a href="#cases">Teaching cases (3)</a> · <a href="#reports">Reports and theses (4)</a> · <a href="#seminars">Invited seminars (6)</a> · <a href="#talks">Conference talks (45)</a></p>
 
-<h2>Refereed journal articles</h2>
+<h2 id="journal">Refereed journal articles (14)</h2>
 <ul class="pubs">  <li id="charpin2026">
     <div class="title">De-risking from China: how US firms reconfigure sourcing through decoupling, diversification and friendshoring across geopolitical disruptions</div>
     <div>Charpin R, <strong>Cousineau M</strong>, Fan D</div>
@@ -187,7 +207,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
   <li id="kullman2022">
     <div class="title">Dynamic ride-hailing with electric vehicles</div>
     <div>Kullman ND, <strong>Cousineau M</strong>, Goodson JC, Mendoza JE</div>
-    <div class="venue"><em>Transportation Science</em>, 56(3), 775-794, 2022<span class="tag">2023 Transportation Science Journal Paper of the Year (INFORMS)</span>    </div>
+    <div class="venue"><em>Transportation Science</em>, 56(3), 775-794, 2022<span class="tag">2022 Transportation Science Journal Paper of the Year (INFORMS)</span>    </div>
     <div class="meta"><a href="https://doi.org/10.1287/trsc.2021.1042">DOI</a></div>
   </li>
   <li id="cousineau2015">
@@ -203,8 +223,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
     <div class="meta"><a href="https://doi.org/10.1109/TBME.2010.2052618">DOI</a></div>
   </li>
 </ul>
-
-<h2>Working papers</h2>
+<h2 id="working">Working papers (3)</h2>
 <ul class="pubs">  <li id="ghahtarani2026">
     <div class="title">NeuroPlanner: Learning implicit planner knowledge for vehicle routing</div>
     <div>Ghahtarani A, Rabasse E, <strong>Cousineau M</strong>, Mendoza JE</div>
@@ -224,8 +243,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
     <div class="meta"></div>
   </li>
 </ul>
-
-<h2>Conference proceedings</h2>
+<h2 id="proceedings">Conference proceedings (3)</h2>
 <ul class="pubs">  <li id="mortes2025a">
     <div class="title">Learning implicit multiple time windows in the Traveling Salesman Problem</div>
     <div>Mortes J, <strong>Cousineau M</strong>, Lehuédé F, Mendoza JE, Restrepo MI</div>
@@ -245,8 +263,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
     <div class="meta"><a href="https://doi.org/10.3390/engproc2024076029">DOI</a></div>
   </li>
 </ul>
-
-<h2>Book chapters</h2>
+<h2 id="chapters">Book chapters (2)</h2>
 <ul class="pubs">  <li id="belanger2025a">
     <div class="title">Applications de l'intelligence artificielle à la logistique de la santé</div>
     <div>Bélanger V, <strong>Cousineau M</strong></div>
@@ -260,8 +277,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
     <div class="meta"></div>
   </li>
 </ul>
-
-<h2>Teaching cases</h2>
+<h2 id="cases">Teaching cases (3)</h2>
 <ul class="pubs">  <li id="jodoin2024">
     <div class="title">L'art de la pige en hauteur dans la préparation de commandes : le cas du Groupe Robert</div>
     <div>Jodoin C, Bélanger V, <strong>Cousineau M</strong></div>
@@ -281,8 +297,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
     <div class="meta"><a href="https://education.hec.ca/centredecas/app/en/case-detail?id=8664&titlelang=fr">HEC case centre</a></div>
   </li>
 </ul>
-
-<h2>Reports and theses</h2>
+<h2 id="reports">Reports and theses (4)</h2>
 <ul class="pubs">  <li id="cousineau2022">
     <div class="title">Fiches 1 à 4 : définitions et usages, promesses, aspects juridiques et enjeux éthiques de l'IA en santé</div>
     <div><strong>Cousineau M</strong>, Castonguay A, Després P, Motulsky A, Nikiema JN, Badr J, Martineau JT, Petitgand C, Régis C</div>
@@ -309,8 +324,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
   </li>
 </ul>
 
-
-<h2>Invited research seminars</h2>
+<h2 id="seminars">Invited research seminars (6)</h2>
 <ul class="pubs">
   <li><div class="title">NeuroPlanner: Learning implicit planner knowledge for vehicle routing</div>
       <div class="venue">IMT Atlantique, Nantes, France, 2026</div></li>
@@ -470,7 +484,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
 </details>
 </main>
 <footer class="site-footer">
-  <p>© 2026 Martin Cousineau · Updated 2026-11-25.</p>
+  <p>© 2026 Martin Cousineau · Updated 2026-11-26.</p>
 </footer>
 </body>
 </html>

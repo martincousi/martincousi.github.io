@@ -96,21 +96,40 @@ th { color: var(--muted); font-weight: 600; }
 .news li { margin-bottom: .45rem; }
 .news .date { color: var(--muted); font-size: .9rem; display: inline-block; min-width: 6.5rem; }
 
-.glance { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
-.glance li { margin: 0; padding: .3rem .8rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .92rem; }
+/* home page: main column + side cards (one column below 880px, side cards after the main content) */
+.page-index main, .page-index .site-header, .page-index .site-footer { max-width: 70rem; }
+.layout { display: grid; grid-template-columns: minmax(0, 46rem) 19rem; gap: 3rem; justify-content: space-between; }
+.side { padding-top: 2rem; }
+.card { background: var(--bg-soft); border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1.2rem; font-size: .92rem; }
+.card h2 { font-size: .85rem; margin: 0 0 .7rem; padding-bottom: .3rem; border-bottom-width: 1px; }
+.plain { list-style: none; padding: 0; margin: 0; }
+.plain li { margin-bottom: .55rem; }
+.plain .date { color: var(--muted); margin-right: .35rem; }
+.card .small { font-size: .85rem; }
+.glance { list-style: none; padding: 0; margin: 0; }
+.glance li { margin-bottom: .3rem; }
+.glance strong { color: var(--navy); font-size: 1.05rem; }
+.glance-inline { display: none; }
+@media (max-width: 880px) {
+  .layout { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .side { padding-top: 1rem; }
+  .glance-side { display: none; }
+  .glance-inline { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1rem; }
+  .glance-inline li { margin: 0; padding: .2rem .7rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .88rem; }
+}
 details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; margin: .5rem 0 1rem; }
+.jump a { white-space: nowrap; }
 
 </style>
 </head>
-<body>
+<body class="page-students">
 <header class="site-header">
   <a class="brand" href="index.html">Martin Cousineau</a>
   <nav>
-    <a href="index.html#about">About</a>
+    <a href="index.html">Home</a>
     <a href="publications.html">Publications</a>
     <a href="students.html" class="active">Students</a>
-    <a href="index.html#teaching">Teaching</a>
-<a href="index.html#notes">Notes</a>    <a href="index.html#contact">Contact</a>
+    <a href="index.html#contact">Contact</a>
   </nav>
 </header>
 <main>
@@ -133,7 +152,7 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
       <span class="desc">HEC Montréal, co-supervised with C. Rebolledo</span></div></li>
 </ul>
 
-<h2>Alumni</h2>
+<p class="small">Also 4 M.Sc. supervised projects in progress (see <a href="#projects">Supervised projects</a>).</p><h2>Alumni</h2>
 <h3>Doctoral students</h3>
 <ul class="students">
   <li><div class="when">2022–2026</div>
@@ -193,11 +212,11 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
 </ul>
 
 
-<h2>Supervised projects</h2>
+<h2 id="projects">Supervised projects</h2>
 <p>I also supervise M.Sc. supervised projects and undergraduate projects, most of them with industry or healthcare partners (44 completed since 2019, 4 in progress). Two of them led to published teaching cases (<a href="publications.html#jodoin2024">Jodoin et al. 2024</a>, <a href="publications.html#dhanuka2023">Dhanuka et al. 2023</a>).</p>
 </main>
 <footer class="site-footer">
-  <p>© 2026 Martin Cousineau · Updated 2026-11-25.</p>
+  <p>© 2026 Martin Cousineau · Updated 2026-11-26.</p>
 </footer>
 </body>
 </html>

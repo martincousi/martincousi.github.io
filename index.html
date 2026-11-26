@@ -96,24 +96,45 @@ th { color: var(--muted); font-weight: 600; }
 .news li { margin-bottom: .45rem; }
 .news .date { color: var(--muted); font-size: .9rem; display: inline-block; min-width: 6.5rem; }
 
-.glance { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
-.glance li { margin: 0; padding: .3rem .8rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .92rem; }
+/* home page: main column + side cards (one column below 880px, side cards after the main content) */
+.page-index main, .page-index .site-header, .page-index .site-footer { max-width: 70rem; }
+.layout { display: grid; grid-template-columns: minmax(0, 46rem) 19rem; gap: 3rem; justify-content: space-between; }
+.side { padding-top: 2rem; }
+.card { background: var(--bg-soft); border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1.2rem; font-size: .92rem; }
+.card h2 { font-size: .85rem; margin: 0 0 .7rem; padding-bottom: .3rem; border-bottom-width: 1px; }
+.plain { list-style: none; padding: 0; margin: 0; }
+.plain li { margin-bottom: .55rem; }
+.plain .date { color: var(--muted); margin-right: .35rem; }
+.card .small { font-size: .85rem; }
+.glance { list-style: none; padding: 0; margin: 0; }
+.glance li { margin-bottom: .3rem; }
+.glance strong { color: var(--navy); font-size: 1.05rem; }
+.glance-inline { display: none; }
+@media (max-width: 880px) {
+  .layout { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .side { padding-top: 1rem; }
+  .glance-side { display: none; }
+  .glance-inline { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1rem; }
+  .glance-inline li { margin: 0; padding: .2rem .7rem; border: 1px solid var(--rule); border-radius: 999px; font-size: .88rem; }
+}
 details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; margin: .5rem 0 1rem; }
+.jump a { white-space: nowrap; }
 
 </style>
 </head>
-<body>
+<body class="page-index">
 <header class="site-header">
   <a class="brand" href="index.html">Martin Cousineau</a>
   <nav>
-    <a href="index.html#about" class="active">About</a>
+    <a href="index.html" class="active">Home</a>
     <a href="publications.html">Publications</a>
     <a href="students.html">Students</a>
-    <a href="index.html#teaching">Teaching</a>
-<a href="index.html#notes">Notes</a>    <a href="index.html#contact">Contact</a>
+    <a href="index.html#contact">Contact</a>
   </nav>
 </header>
 <main>
+<div class="layout">
+<div class="main-col">
 <section class="hero" id="about">
   <img src="avatar.jpg" alt="Photo of Martin Cousineau">
   <div>
@@ -121,55 +142,41 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
     <p class="role">Associate Professor of Logistics and Operations Management<br>
       <a href="https://www.hec.ca/en/profs/martin.cousineau.html">HEC Montréal</a></p>
     <div class="links">
-      <a href="mailto:martin.cousineau@hec.ca">Email</a>
 <a href="https://scholar.google.ca/citations?user=Za6cPO4AAAAJ">Google Scholar</a><a href="https://orcid.org/0000-0001-9184-3553">ORCID</a><a href="https://www.linkedin.com/in/martincousineau/">LinkedIn</a><a href="https://github.com/martincousi">GitHub</a>    </div>
   </div>
 </section>
 
-<p>Martin Cousineau is an associate professor in the Department of Logistics and Operations Management at <a href="https://www.hec.ca/">HEC Montréal</a> and an <a href="https://ivado.ca/">IVADO</a> professor. He is a regular member of <a href="https://cirrelt.ca/">CIRRELT</a> and co-head of the Sustainable Health research theme at <a href="https://obvia.ca/">Obvia</a>. His expertise lies in methods at the intersection of operations research and machine learning, with a focus on logistics, transportation and healthcare applications.</p>
+<p>Martin Cousineau is an associate professor in the Department of Logistics and Operations Management at <a href="https://www.hec.ca/">HEC Montréal</a> and an <a href="https://ivado.ca/">IVADO</a> professor. He is a regular member of <a href="https://cirrelt.ca/">CIRRELT</a>, co-head of the Sustainable Health research theme at <a href="https://obvia.ca/">Obvia</a> and an officer of the Health Care Operational Research SIG of <a href="https://www.cors.ca/">CORS</a>. His expertise lies in methods at the intersection of operations research and machine learning, with a focus on logistics, transportation and healthcare applications.</p>
 
-<h2 id="news">News</h2>
-<ul class="news">
-  <li><span class="date">Dec. 1, 2026</span> Upcoming: <em>Game On – Turning Operations Research Problems into Video Games</em>, a workshop at Universidad de los Andes (Bogotá), Dec. 1 and 3, 10:30–12:00.</li>
-  <li><span class="date">Dec. 2026</span> New paper in <em>Computers &amp; Operations Research</em> on the on-demand bus routing problem, with J. Mortes-Alcaraz, F. Lehuédé, J.E. Mendoza and M.I. Restrepo. <a href="https://doi.org/10.1016/j.cor.2026.107641">→</a></li>
-  <li><span class="date">Nov. 3, 2026</span> New paper in <em>International Journal of Operations &amp; Production Management</em>: how US firms reconfigure sourcing away from China through decoupling, diversification and friendshoring. <a href="https://doi.org/10.1108/IJOPM-02-2026-0240">→</a></li>
-  <li><span class="date">Feb. 2026</span> Congratulations to Nadia Ghernaout on completing a Ph.D. on machine-learning-assisted surveillance tours for gas transmission networks.</li>
-  <li><span class="date">Oct. 16, 2025</span> <em>Gamifying the vehicle routing problem with stochastic requests</em> published online in <em>INFORMS Journal on Computing</em>. <a href="https://doi.org/10.1287/ijoc.2024.0838">→</a></li>
-</ul>
-
-<h2 id="glance">At a glance</h2>
-<ul class="glance">
-  <li>14 refereed journal articles</li>
-  <li>3 working papers</li>
-  <li>51 talks (6 invited)</li>
-  <li>6 current students and postdocs</li>
-  <li>1 Ph.D. graduate</li>
-  <li>42 master's students supervised to completion</li>
-  <li>11 research interns and visiting students</li>
+<ul class="glance glance-inline">
+  <li><strong>14</strong> refereed journal articles</li>
+  <li><strong>3</strong> working papers</li>
+  <li><strong>51</strong> talks (6 invited)</li>
+  <li><strong>6</strong> current students and postdocs</li>
+  <li><strong>1</strong> Ph.D. graduate</li>
+  <li><strong>4</strong> M.Sc. theses supervised</li>
+  <li><strong>38</strong> M.Sc. supervised projects</li>
+  <li><strong>11</strong> research interns and visiting students</li>
 </ul>
 
 <h2 id="research">Research</h2>
 <ul class="themes">
-  <li><strong>Gamification of online stochastic optimization problems.</strong> Turning dynamic logistics problems (vehicle routing with stochastic requests, electric-vehicle home charging) into Atari-like games solved with machine learning. <span class="small">See: <a href="https://doi.org/10.1287/ijoc.2024.0838">INFORMS Journal on Computing 2026</a>, <a href="https://arxiv.org/abs/2601.12543">Press Start to Charge (working paper)</a></span></li>
+  <li><strong>Gamification of online stochastic optimization problems.</strong> Turning dynamic logistics problems (vehicle routing with stochastic requests, electric-vehicle home charging) into Atari-like games solved with machine learning. <span class="small">See: <a href="https://doi.org/10.1287/ijoc.2024.0838">IJOC 2026</a>, <a href="https://arxiv.org/abs/2601.12543">Press Start to Charge (working paper)</a></span></li>
   <li><strong>Integration of learning and optimization.</strong> Integrating machine learning into optimization methods to solve more realistic problems: deep reinforcement learning for electric ride-hailing fleets, learning planners' implicit knowledge in routing, surveillance tours for gas networks, implicit time windows in the traveling salesman problem. <span class="small">See: <a href="https://doi.org/10.1287/trsc.2021.1042">Transportation Science 2022</a>, <a href="publications.html#ghahtarani2026">NeuroPlanner (working paper)</a>, <a href="https://doi.org/10.1016/j.trpro.2024.12.220">Transportation Research Procedia 2025</a></span></li>
-  <li><strong>Healthcare operations and analytics.</strong> Causal inference and decision support for mental-health services, hospital supply chains and the adoption of innovative medical devices. <span class="small">See: <a href="https://doi.org/10.1016/j.ejor.2022.01.046">European Journal of Operational Research 2023</a>, <a href="https://doi.org/10.37765/ajmc.2024.89501">The American Journal of Managed Care 2024</a>, <a href="https://doi.org/10.1080/00207543.2024.2414380">International Journal of Production Research 2025</a></span></li>
-  <li><strong>Empirical research in supply chains.</strong> How geopolitical tensions reshape sourcing (friendshoring, decoupling), using large-scale trade data. <span class="small">See: <a href="https://doi.org/10.1108/IJOPM-01-2024-0067">International Journal of Operations & Production Management 2025</a>, <a href="https://doi.org/10.1108/IJOPM-02-2026-0240">International Journal of Operations & Production Management 2026</a></span></li>
+  <li><strong>Healthcare operations and analytics.</strong> Causal inference and decision support for mental-health services, hospital supply chains and the adoption of innovative medical devices. <span class="small">See: <a href="https://doi.org/10.1016/j.ejor.2022.01.046">EJOR 2023</a>, <a href="https://doi.org/10.37765/ajmc.2024.89501">AJMC 2024</a>, <a href="https://doi.org/10.1080/00207543.2024.2414380">IJPR 2025</a></span></li>
+  <li><strong>Empirical research in supply chains.</strong> How geopolitical tensions reshape sourcing (friendshoring, decoupling), using large-scale trade data. <span class="small">See: <a href="https://doi.org/10.1108/IJOPM-01-2024-0067">IJOPM 2025</a>, <a href="https://doi.org/10.1108/IJOPM-02-2026-0240">IJOPM 2026</a></span></li>
 </ul>
 
-<h2 id="selected">Recent publications</h2>
+<h2 id="news">News</h2>
+<ul class="news">
+  <li><span class="date">Dec. 1, 2026</span> Upcoming: <em>Game On – Turning Operations Research Problems into Video Games</em>, a workshop at Universidad de los Andes (Bogotá), Dec. 1 and 3, 10:30–12:00.</li>
+  <li><span class="date">Nov. 3, 2026</span> New paper in <em>International Journal of Operations &amp; Production Management</em>: how US firms reconfigure sourcing away from China through decoupling, diversification and friendshoring. <a href="https://doi.org/10.1108/IJOPM-02-2026-0240">→</a></li>
+  <li><span class="date">Aug. 22, 2026</span> New paper in <em>Computers &amp; Operations Research</em> on the on-demand bus routing problem, with J. Mortes-Alcaraz, F. Lehuédé, J.E. Mendoza and M.I. Restrepo. <a href="https://doi.org/10.1016/j.cor.2026.107641">→</a></li>
+  <li><span class="date">Feb. 2026</span> Congratulations to Nadia Ghernaout on completing a Ph.D. on machine-learning-assisted surveillance tours for gas transmission networks.</li>
+</ul>
+
+<h2 id="selected">Selected publications</h2>
 <ul class="pubs">
-  <li>
-    <div class="title">De-risking from China: how US firms reconfigure sourcing through decoupling, diversification and friendshoring across geopolitical disruptions</div>
-    <div>Charpin R, <strong>Cousineau M</strong>, Fan D</div>
-    <div class="venue"><em>International Journal of Operations &amp; Production Management</em>, 2026</div>
-    <div class="meta"><a href="https://doi.org/10.1108/IJOPM-02-2026-0240">DOI</a><a href="uploads/Charpin_Cousineau_Fan-2026-De-risking_from_China.pdf">PDF</a></div>
-  </li>
-  <li>
-    <div class="title">Small and large neighborhood search for the on-demand bus routing problem: A bus stop assignment and transportation problem</div>
-    <div>Mortes J, <strong>Cousineau M</strong>, Lehuédé F, Mendoza JE, Restrepo MI</div>
-    <div class="venue"><em>Computers &amp; Operations Research</em>, 196, 107641, 2026</div>
-    <div class="meta"><a href="https://doi.org/10.1016/j.cor.2026.107641">DOI</a></div>
-  </li>
   <li>
     <div class="title">Gamifying the vehicle routing problem with stochastic requests</div>
     <div>Kullman ND, Dudorov N, <strong>Cousineau M</strong>, Mendoza JE, Goodson JC</div>
@@ -177,16 +184,22 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
     <div class="meta"><a href="https://doi.org/10.1287/ijoc.2024.0838">DOI</a><a href="uploads/Gamification_VRPSR.pdf">PDF</a></div>
   </li>
   <li>
-    <div class="title">Digital symptom checkers for COVID-19: A scoping review and pilot study of the ENTIRE quality appraisal tool for health informatics studies</div>
-    <div>Bélanger V, <strong>Cousineau M</strong>, Moreault M-P, Motulsky A</div>
-    <div class="venue"><em>BMC Digital Health</em>, 3(49), 2025</div>
-    <div class="meta"><a href="https://doi.org/10.1186/s44247-025-00189-x">DOI</a></div>
+    <div class="title">Friendshoring: How geopolitical tensions affect foreign sourcing, supply base complexity and sub-tier supplier sharing</div>
+    <div>Charpin R, <strong>Cousineau M</strong></div>
+    <div class="venue"><em>International Journal of Operations &amp; Production Management</em>, 45(5), 1006-1031, 2025<span class="tag">2025 IJOPM Outstanding Paper Award</span></div>
+    <div class="meta"><a href="https://doi.org/10.1108/IJOPM-01-2024-0067">DOI</a><a href="uploads/Charpin_Cousineau-2024-Friendshoring.pdf">PDF</a></div>
   </li>
   <li>
-    <div class="title">Artificial intelligence (AI) in health promotion and disease reduction: A rapid review</div>
-    <div>Yousefi F, Naye F, Ouellet S, Yameogo A, Sasseville M, Bergeron F, Ozkan M, <strong>Cousineau M</strong>, Amil S, Rhéaume C, Gagnon M-P</div>
-    <div class="venue"><em>Journal of Medical Internet Research</em>, 27, e70381, 2025</div>
-    <div class="meta"><a href="https://doi.org/10.2196/70381">DOI</a></div>
+    <div class="title">Estimating causal effects with optimization-based methods: A review and empirical comparison</div>
+    <div><strong>Cousineau M</strong>, Verter V, Murphy SA, Pineau J</div>
+    <div class="venue"><em>European Journal of Operational Research</em>, 304(2), 367-380, 2023</div>
+    <div class="meta"><a href="https://doi.org/10.1016/j.ejor.2022.01.046">DOI</a></div>
+  </li>
+  <li>
+    <div class="title">Dynamic ride-hailing with electric vehicles</div>
+    <div>Kullman ND, <strong>Cousineau M</strong>, Goodson JC, Mendoza JE</div>
+    <div class="venue"><em>Transportation Science</em>, 56(3), 775-794, 2022<span class="tag">2022 Transportation Science Journal Paper of the Year (INFORMS)</span></div>
+    <div class="meta"><a href="https://doi.org/10.1287/trsc.2021.1042">DOI</a></div>
   </li>
 </ul>
 <p><a href="publications.html">All publications →</a></p>
@@ -195,73 +208,85 @@ details.more summary { cursor: pointer; color: var(--navy); font-weight: 600; ma
 <p>I supervise M.Sc. theses, doctoral and postdoctoral researchers and research interns on optimization and machine learning for logistics and healthcare. I have no funded positions open at the moment, but I am happy to hear from students with their own funding and from HEC M.Sc. students looking for a supervised project.</p>
 <p><a href="students.html">Current and former students →</a></p>
 
-<h2 id="teaching">Teaching</h2>
-<ul>
-  <li>Operations Management <span class="small">(B.A.A., French / English)</span></li>
-  <li>Supply Chain Analytics and Applied AI <span class="small">(M.Sc., French / English)</span></li>
-  <li>Warehousing Systems Design <span class="small">(M.Sc., French / English)</span></li>
-  <li>Decision Support Tools for the Operations Manager <span class="small">(M.Sc., French)</span></li>
-</ul>
-
-<h2 id="awards">Awards</h2>
-<ul>
-  <li>2025 Outstanding Paper Award, International Journal of Operations &amp; Production Management (Emerald)</li>
-  <li>Teaching Excellence Award (assistant professor), HEC Montréal (2024)</li>
-  <li>Research Impact Award, HEC Montréal (2023)</li>
-  <li>2023 Transportation Science Journal Paper of the Year, Institute for Operations Research and the Management Sciences (INFORMS)</li>
-  <li>Best poster award, Obvia symposium on digital health data (2022)</li>
-</ul>
-
 <h2 id="media">In the media</h2>
-<ul class="pubs media">
-  <li><div class="title"><a href="https://youtube.com/shorts/9BlmQ7ZwJP0">Où se crée la valeur en prévention au Québec ?</a></div>
+<ul class="pubs media">  <li><div class="title"><a href="https://youtube.com/shorts/9BlmQ7ZwJP0">Où se crée la valeur en prévention au Québec ?</a></div>
       <div class="venue"><em>Association pour la santé publique du Québec (ASPQ), Semaine de la santé durable (video clip)</em>, Apr. 2026<span class="tag">Video</span></div></li>
   <li><div class="title"><a href="https://theconversation.com/malgre-ses-couts-apprehendes-le-dossier-de-sante-numerique-ameliore-par-lia-est-essentiel-261805">Malgré ses coûts appréhendés, le dossier de santé numérique, amélioré par l'IA, est essentiel</a></div>
       <div class="venue"><em>La Conversation Canada</em>, Sep. 2, 2025<span class="tag">Op-ed</span></div></li>
   <li><div class="title"><a href="https://ecolebranchee.com/necessaire-de-developper-ia-centree-sur-humain">Il est nécessaire de développer une IA centrée sur l'humain</a></div>
       <div class="venue"><em>École branchée</em>, Mar. 13, 2024<span class="tag">Interview</span></div></li>
-  <li><div class="title"><a href="https://www.ttnews.com/articles/using-ai-voice-database">Using AI to Chat With Your Database: Keyboards May One Day Be No Longer Key to Business Communication</a></div>
+</ul>
+<details class="more">
+  <summary>Show all 6</summary>
+  <ul class="pubs media">  <li><div class="title"><a href="https://www.ttnews.com/articles/using-ai-voice-database">Using AI to Chat With Your Database: Keyboards May One Day Be No Longer Key to Business Communication</a></div>
       <div class="venue"><em>Transport Topics</em>, May 26, 2023<span class="tag">Interview</span></div></li>
   <li><div class="title"><a href="https://www.ledevoir.com/opinion/idees/789486/idees-pour-une-ia-responsable-au-service-de-l-interet-public">Pour une IA responsable au service de l'intérêt public</a></div>
       <div class="venue"><em>Le Devoir</em>, Apr. 21, 2023<span class="tag">Open letter (co-signatory)</span></div></li>
   <li><div class="title"><a href="https://www.healthscienceinquiry.com/index.php/hsi/article/download/277/276/">Artificial intelligence and mental illness</a></div>
       <div class="venue"><em>Health Science Inquiry News</em>, 2018<span class="tag">Interview</span></div></li>
 </ul>
+</details>
+</div>
 
-<h2 id="affiliations">Affiliations &amp; service</h2>
-<ul>
-  <li><strong>CIRRELT</strong> (Interuniversity Research Centre on Enterprise Networks, Logistics and Transportation) — regular member</li>
-  <li><strong>IVADO</strong> (Institute for Data Valorization) — IVADO professor</li>
-  <li><strong>Obvia</strong> (International Observatory on the Societal Impacts of AI and Digital Technology) — regular research member; co-head of the Sustainable Health research theme and member of the scientific committee</li>
-  <li><strong>CORS</strong> (Canadian Operational Research Society) — member; officer of the Health Care Operational Research SIG and chair of its student paper competition</li>
+<aside class="side">
+<section class="card glance-side">
+<h2>At a glance</h2>
+<ul class="glance">
+  <li><strong>14</strong> refereed journal articles</li>
+  <li><strong>3</strong> working papers</li>
+  <li><strong>51</strong> talks (6 invited)</li>
+  <li><strong>6</strong> current students and postdocs</li>
+  <li><strong>1</strong> Ph.D. graduate</li>
+  <li><strong>4</strong> M.Sc. theses supervised</li>
+  <li><strong>38</strong> M.Sc. supervised projects</li>
+  <li><strong>11</strong> research interns and visiting students</li>
 </ul>
 
-<h2 id="education">Education</h2>
-<ul class="timeline">
-  <li><div class="when">2020</div>
-      <div class="what"><strong>Ph.D. (Management), Healthcare Operations and Information Management</strong><span>McGill University</span></div></li>
-  <li><div class="when">2013</div>
-      <div class="what"><strong>M.Sc. (Administration), Business Analytics</strong><span>HEC Montréal</span></div></li>
-  <li><div class="when">2010</div>
-      <div class="what"><strong>B.Ing., Mechanical Engineering</strong><span>École Polytechnique de Montréal</span></div></li>
-</ul>
+</section>
 
-<h2 id="notes">Notes</h2>
-<ul class="notes">
-  <li><a href="posts/writing-supervised-project-report.html">Writing an M.Sc. supervised project report</a><span class="date">2021</span><br><span class="small">Advice for students writing the report of a supervised project within an organization.</span></li>
+<section class="card" id="awards">
+<h2>Awards</h2>
+<ul class="plain">
+  <li><span class="date">2025</span> Outstanding Paper Award, <span class="small">International Journal of Operations &amp; Production Management (Emerald)</span></li>
+  <li><span class="date">2024</span> Teaching Excellence Award (assistant professor), <span class="small">HEC Montréal</span></li>
+  <li><span class="date">2023</span> Research Impact Award, <span class="small">HEC Montréal</span></li>
+  <li><span class="date">2022</span> Transportation Science Journal Paper of the Year, <span class="small">Institute for Operations Research and the Management Sciences (INFORMS)</span></li>
+  <li><span class="date">2022</span> Best poster award, Obvia symposium on digital health data</li>
 </ul>
+</section>
 
-<h2 id="contact">Contact</h2>
-<div class="contact">
-<dl>
-  <dt>Email</dt><dd><a href="mailto:martin.cousineau@hec.ca">martin.cousineau@hec.ca</a></dd>
-  <dt>Phone</dt><dd>514 340-6737</dd>
-  <dt>Office</dt><dd>HEC Montréal, 3000, chemin de la Côte-Sainte-Catherine, Montréal (Québec)  H3T 2A7</dd>
-</dl>
+<section class="card" id="affiliations">
+<h2>Affiliations</h2>
+<ul class="plain">
+  <li><strong>CIRRELT</strong> — regular member</li>
+  <li><strong>IVADO</strong> — professor</li>
+  <li><strong>Obvia</strong> — co-head, Sustainable Health theme; scientific committee</li>
+  <li><strong>CORS</strong> — officer, Health Care OR SIG; chair, student paper competition</li>
+</ul>
+</section>
+
+<section class="card" id="education">
+<h2>Education</h2>
+<ul class="plain">
+  <li><span class="date">2020</span> <strong>Ph.D. (Management), Healthcare Operations and Information Management</strong><br><span class="small">McGill University</span></li>
+  <li><span class="date">2013</span> <strong>M.Sc. (Administration), Business Analytics</strong><br><span class="small">HEC Montréal</span></li>
+  <li><span class="date">2010</span> <strong>B.Ing., Mechanical Engineering</strong><br><span class="small">École Polytechnique de Montréal</span></li>
+</ul>
+</section>
+
+<section class="card contact" id="contact">
+<h2>Contact</h2>
+<ul class="plain">
+  <li><a href="mailto:martin.cousineau@hec.ca">martin.cousineau@hec.ca</a></li>
+  <li><a href="tel:+15143406737">514 340-6737</a></li>
+  <li class="small">HEC Montréal<br>3000, chemin de la Côte-Sainte-Catherine<br>Montréal (Québec)  H3T 2A7</li>
+</ul>
+</section>
+</aside>
 </div>
 </main>
 <footer class="site-footer">
-  <p>© 2026 Martin Cousineau · Updated 2026-11-25.</p>
+  <p>© 2026 Martin Cousineau · Updated 2026-11-26.</p>
 </footer>
 </body>
 </html>
